@@ -1,0 +1,57 @@
+Name: Patrick(he/him)
+Class: Professional
+Description: Looks like me.22, 5'7 with dark brown hair and glasses. Pretty pale skin. 
+outfits vary but the company he works for is sponsored by adidas so most apparel is adidas sponsored.
+Favorite outfit is white pants, black shirt, black hat, black gloves, white shoes. 
+
+Background: Lived a pretty sheltered life until going to college. Maryville was a scary place compared to the 
+suburbs. Needed money and wanting to be able to face that scary stuff I took a job hunting it down. 
+
+Gear: 
+    Submachine Gun (FMG - 9, a foldable submachine gun)(3-harm, close, area, loud, reload)
+    Hunting Rifle(2-harm, far, loud)
+    9mm (2-harm, close, loud)
+
+    Flak Vest: 1(+1 battlefield awareness)-armour
+
+Charm: -1
+Cool: +2 (+1 unfazable)
+Sharp: +1
+Tough: +1
+Weird: 0
+
+Harm: [][][] | [][][][] 
+
+exp = [][][][][]
+
+luck= [][][][][][][]
+Professional special: When you spend a point of Luck,
+your next mission from the Agency comes with lots of
+Red Tape. Lots.
+
+Moves:
+	Deal with agency: , requesting help or
+		gear, or making excuses for a failure, roll +Sharp. On
+		a 10+, you’re good—your request for gear or personnel is okayed, or your slip-up goes unnoticed. On a
+		7-9, things aren’t so great. You might get chewed out
+		by your superiors and there’ll be fallout, but you get
+		what you need for the job. On a miss, you screwed
+		up: you might be suspended or under investigation,
+		or just in the doghouse. You certainly aren’t going to
+		get any help until you sort it all out
+	Battlefield Awareness:You always know what’s
+		happening around you, and what to watch out for.
+		Take +1 armour (max 2-armour) on top of whatever
+		you get from your gear
+	Mobility: Black Mercedes AMG C-Class Sedan (Fast, intimidating, obvious)
+	Unfazeable: Take +1 cool
+	Tactical Genius: When you read a bad situation,
+		you may roll +Cool instead of +Sharp
+
+Class Specifics:
+AGENCY - A Corperation
+this corperation wants to protect people.
+    Resources: Well-financed, Weird Tech Gadgets
+    Red Tape: Secretive Hierarchy, Inter-departmental rivalry
+
+Notes:

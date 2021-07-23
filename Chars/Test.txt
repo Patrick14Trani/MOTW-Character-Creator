@@ -1,0 +1,27 @@
+Name: 
+Class:
+Description:
+
+Background:
+
+Gear:
+
+Charm:
+Cool:
+Sharp:
+Tough:
+Weird:
+
+Harm: [][][] | [][][][] 
+
+exp = [][][][][]
+
+luck= [][][][][][][]
+
+Moves:
+
+Class Specifics:
+
+
+Notes:
+

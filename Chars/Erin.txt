@@ -1,0 +1,41 @@
+Name: Erin
+Class: The Expert
+Description: Short but excitable and loud woman with the hunger to learn. Normally loves to wear outdoorsy
+or adventure clothing. 
+
+Background: College led her to studying the biology of creatures and when she stumbled upon a group that
+secretly studied unnatural creatures and she has since been chasing the high and knowledge.
+
+Gear: 
+    Flamethrower(3-harm, close, fire, heavy, volatile)
+    Blessed Knife(2-harm, hand, holy)
+    Silver Sword(2-harm, hand, messy, silver)
+
+Charm: +1
+Cool: -1
+Sharp: +2
+Tough: +1
+Weird: 0
+
+Harm: [][][] | [][][][] 
+
+exp = [][][][][]
+
+luck= [][][][][][][]
+Expert special: When you spend a point of Luck, you
+discover something happening now is related to something you were involved in years ago.
+
+Moves:
+    I've Read About This: Roll +Sharp instead of +Cool when you act under pressure.
+    Preparedness: : When you need something unusual
+	or rare, roll +Sharp. On a 10+, you have it here right
+	now. On a 7-9 you have it, but not here: it will take
+	some time to get it. On a miss, you know where it is,
+	but it’s somewhere real bad.
+
+Class Specifics:
+    Haven: The newman center house in Warrensburg
+	-Lore Library, Mystical Library, Protection Spells
+
+
+Notes:

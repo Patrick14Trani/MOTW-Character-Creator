@@ -1,0 +1,46 @@
+Name: David 
+Class: Initiate
+Description: a below average height man with graying hair on the sides. He loves wearing sandals.
+
+Background: Father of 4 and a member of the Knights of Columbus. Dave has become a huge friend of the
+sacred heart parish. His family is well known and often reveared in the Parish. He has tons of friends. 
+
+Gear: 
+    Silver Knife(1-harm, hand, silver)
+    Sword(2-harm, hand, messy)
+    9mm(2-harm, close, loud)
+
+Charm: +1
+Cool: -1
+Sharp: +1
+Tough: 0
+Weird: +2
+
+Harm: [][][] | [][][][] 
+
+exp = [][][][][]
+
+luck= [][][][][][][]
+Initiate special: When you spend a point of Luck, something goes wrong for your Sect: an ill-advised project or a
+disastrous operation.
+
+Moves:
+	Beginning of Mystery: When you are in good standing with your Sect, at
+		the beginning of each mystery, roll +Charm. On
+		a 10+ they provide some useful info or help in the
+		field. On a 7-9 you get a mission associated with the
+		mystery, and if you do it you’ll get some info or help
+		too. On a miss, they ask you to do something bad.
+		If you fail a mission or refuse an order, you’ll be in
+		trouble with the Sect until you atone
+	Mystic: Every time you successfully use magic, take +1 forward.
+	Apprentice: Ally - Alec Arnold
+	Helping Hand: When you successfully help out another hunter, they get +2 instead of the usual +1.
+
+Class Specifics:
+   Sect: The Knights of Columbus
+	Good Traditions: Chapters Everywhere, Magical Items
+	Bad Traditions: Mystical oaths, tradition bound
+
+
+Notes:

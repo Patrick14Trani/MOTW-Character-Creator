@@ -1,0 +1,53 @@
+Name: Gina 
+Class: The Divine
+Description: Looks like mom. Appears as female human at the age of 54.
+
+Background: A very human looking angel from the Angelic Bureau pf Investigation. Currently on a sabatical on Earth. Found a human she really loved
+started a family (angel sabaticals are quite long when spent on earth). She will continue to fake age herself until "death" and go back to work and possibly
+look over her children. 
+
+Gear: Thunder Hammer (3-harm, hand, stun, holy)
+
+Charm: -1
+Cool: 0
+Sharp: +1
+Tough: +2
+Weird: +1
+
+Harm: [][][] | [][][][] 
+
+exp = [][][][][]
+
+luck= [][][][][][][]
+Divine special: When you spend a point of Luck, you get
+word your Mission requires something difficult that must
+be done. By you. Urgently
+
+Moves:
+   Boss from Beyond: At the beginning of each
+	mystery, roll +Weird. On a 10+, your Superiors ask
+	you to do something simple. On a 7-9, they ask you
+	to do something complicated or difficult. In either
+	case, you get to ask them one of the questions from
+	the investigate a mystery move right now. On a
+	miss, you are required to do something terrible. If
+	you do not accomplish what they’ve ordered, you
+	cannot use this move again until you have made up
+	for your failure.
+   Soothe:When you talk to someone for a few
+	seconds in a quiet voice, you can calm them down,
+	blocking any panic, anger, or other negative emotions they have. This works even if the thing that
+	freaked them out is still present, as long as your
+	voice can be heard.
+   Lay On Hands: Your touch can heal injury and
+	disease. When you lay your hands on someone
+	hurt, roll +Cool. On a 10+, heal 2 harm or an illness,
+	plus they’re stabilized. On a 7-9, you can heal the
+	harm or illness as on a 10+, but you take it into yourself. 
+	On a miss, your aura causes them extra harm.
+
+Class Specifics:
+   Mission: Fight the schemes of an adversary. (co worker said she couldn't be normal)
+
+
+Notes:

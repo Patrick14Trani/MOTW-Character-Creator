@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "069791896aced518",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fee97e070ade777",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b3f303c8353c7b2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2b2fc3bf18c863a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9eec8a72b689e3f0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "bff6afe4e0794965",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "27fcb590fd1961e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "765344bc9ac3df52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af3d8d5eaf05b618",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5fee97e070ade777",
+  "lastOpenFiles": [
+    "Characters/HolyHunters/HolyHunters.md",
+    "Dimensions/Dimension728.md",
+    "Characters/HolyHunters/Natalie.md",
+    "Characters/HolyHunters/Maxine.md",
+    "Characters/Default.md",
+    "Characters/HolyHunters/Nova.md",
+    "Characters/HolyHunters/Rain.md",
+    "Items/Crafty Cane.md",
+    "Characters/The Tranis/Tranis.md",
+    "Classes/The Divine.md"
+  ]
+}

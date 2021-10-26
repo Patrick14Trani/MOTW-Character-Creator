@@ -1,5 +1,5 @@
 # Natalie
-## The Hard Working *[[The Mundane | Mundane]]*
+## The Hard Working *[[The Flake| Flake]]*
 ---
  - Luck: 0/7
  - Experience: 0/5

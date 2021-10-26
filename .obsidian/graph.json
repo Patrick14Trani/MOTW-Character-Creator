@@ -1,6 +1,6 @@
 {
   "collapse-filter": true,
-  "search": "",
+  "search": "-path:Abilities",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -48,11 +48,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.02136752136752,
   "lineSizeMultiplier": 2.94786324786325,
-  "collapse-forces": true,
-  "centerStrength": 0.49438202247191,
-  "repelStrength": 10,
+  "collapse-forces": false,
+  "centerStrength": 0.401709401709402,
+  "repelStrength": 5.64102564102564,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.7845382596022175,
+  "scale": 1.099909222613363,
   "close": false
 }

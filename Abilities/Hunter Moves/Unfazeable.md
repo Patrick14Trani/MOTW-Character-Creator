@@ -1,4 +1,4 @@
 ---
 base class: [[The Professional]]
 ---
-Take +1 [[Cool]] (max +3).
+Take +1 Cool (max +3).

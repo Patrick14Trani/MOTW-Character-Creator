@@ -26,4 +26,4 @@
 inhuman, angel Orange eyes colourful ninja outfit 
 
 ### Notes
--  Mission: exiled, kicked out of the Angelic Bureau of Investigation for reckless endangerment and poor judgement
+-  Mission: exiled, kicked out of the [[ABI]] for reckless endangerment and poor judgement

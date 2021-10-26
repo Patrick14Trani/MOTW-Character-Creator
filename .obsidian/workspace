@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Classes/The Chosen.md",
-            "mode": "source"
+            "file": "Sessions/Costume Party.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/The Chosen.md",
+                "file": "Sessions/Costume Party.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "6525e3719ec984c6",
   "lastOpenFiles": [
-    "Classes/The Chosen.md",
-    "Classes/The Divine.md",
-    "Classes/The Crooked.md",
-    "Classes/The Expert.md",
-    "Abilities/Hunter Moves/Zone of Strangeness.md",
-    "Abilities/Hunter Moves/Advanced Arcane Training.md",
-    "Abilities/Hunter Moves/Abduction.md",
-    "Abilities/Hunter Moves/Cast Out Evil.md",
-    "Abilities/Hunter Moves/Claws of the Beast.md",
-    "Abilities/Hunter Moves/Cast the Bones.md"
+    "Sessions/Costume Party.md",
+    "Characters/HolyHunters/Nova.md",
+    "Organizations/ABI.md",
+    "Organizations/Sinister Sisters.md",
+    "Characters/HolyHunters/HolyHunters.md",
+    "Characters/HolyHunters/Augustine.md",
+    "Characters/Default.md",
+    "Sessions/Festival of Hearts.md",
+    "Sessions/The Dairy Queen.md",
+    "Monsters/Pheonix.md"
   ]
 }

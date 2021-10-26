@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 5431378
       }
+    },
+    {
+      "query": "path:Monsters",
+      "color": {
+        "a": 1,
+        "rgb": 10577826
+      }
     }
   ],
   "collapse-display": true,
@@ -46,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.7845382596022157,
+  "scale": 0.7845382596022175,
   "close": false
 }

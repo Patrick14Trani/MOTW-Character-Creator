@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "069791896aced518",
+    "id": "e41f28e6a4acacb5",
     "type": "split",
     "children": [
       {
-        "id": "d3489a31f2cb06fa",
+        "id": "6525e3719ec984c6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Organizations/Knights of Columbus.md",
+            "file": "Classes/The Chosen.md",
             "mode": "source"
           }
         }
@@ -18,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b3f303c8353c7b2b",
+    "id": "8303a2a4e6013c39",
     "type": "split",
     "children": [
       {
-        "id": "b2b2fc3bf18c863a",
+        "id": "42550fc0efae9877",
         "type": "tabs",
         "children": [
           {
-            "id": "9eec8a72b689e3f0",
+            "id": "de73d5a8ae66b8e6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,7 +34,7 @@
             }
           },
           {
-            "id": "bff6afe4e0794965",
+            "id": "6dce8677343e40bd",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -55,20 +55,20 @@
     "width": 300
   },
   "right": {
-    "id": "27fcb590fd1961e3",
+    "id": "3a7bb8a8eb448e97",
     "type": "split",
     "children": [
       {
-        "id": "765344bc9ac3df52",
+        "id": "395811b4a1baaa0f",
         "type": "tabs",
         "children": [
           {
-            "id": "af3d8d5eaf05b618",
+            "id": "05b54037490064c0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organizations/Knights of Columbus.md",
+                "file": "Classes/The Chosen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d3489a31f2cb06fa",
+  "active": "6525e3719ec984c6",
   "lastOpenFiles": [
-    "Organizations/Knights of Columbus.md",
-    "Organizations/Catholic Church.md",
-    "Organizations/UCMG.md",
-    "Dimensions/Dimension728.md",
-    "Characters/The Tranis/Tranis.md",
-    "Sessions/Costume Party.md",
-    "Characters/Extras/Chad Strappington.md",
-    "Characters/Extras/Noel.md",
-    "Characters/Default.md",
-    "Monsters/Pheonix.md"
+    "Classes/The Chosen.md",
+    "Classes/The Divine.md",
+    "Classes/The Crooked.md",
+    "Classes/The Expert.md",
+    "Abilities/Hunter Moves/Zone of Strangeness.md",
+    "Abilities/Hunter Moves/Advanced Arcane Training.md",
+    "Abilities/Hunter Moves/Abduction.md",
+    "Abilities/Hunter Moves/Cast Out Evil.md",
+    "Abilities/Hunter Moves/Claws of the Beast.md",
+    "Abilities/Hunter Moves/Cast the Bones.md"
   ]
 }

@@ -1,7 +1,7 @@
 
 # Shapeshifter    
   
-**About:** Known tricksters and cheats. These creatures love to lurk and observe. They have no qualms over who or what they kill, they are in it for the experience. The more a shapeshifter has killed of a certain species, the better they can replicate them. In their natural form they are a slender bipedal creature that stand around 6'5" feet tall. Their skin is shiny, grey, and very smooth. Their fingers are long and sharp allowing them to quickly slice and impale their prey. Their eyes are as black as a void. They can transform near instantly and into creatures up to double their size. Transforming gives them the physical propeties and abilities that their form takes.  
+**About:** Known tricksters and cheats. These carnivorous creatures love to lurk and observe. They have no qualms over who or what they kill, they are in it for the experience. The more a shapeshifter has eaten of a certain species, the better they can replicate them. In their natural form they are a slender bipedal creature that stand around 6'5" feet tall. Their skin is shiny, grey, and very smooth. Their fingers are long and sharp allowing them to quickly slice and impale their prey. Their eyes are as black as a void. They can transform near instantly and into creatures up to double their size. Transforming gives them the physical propeties and abilities that their form takes.  
   
 **Motivation:** Shapeshifter yearn for power. Once they get a taste of a specific creatures blood they look to attain the strongest form of that creature. Some prefer knowledge. They like having the ability to change to many different forms.
   

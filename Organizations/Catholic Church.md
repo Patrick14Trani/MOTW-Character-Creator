@@ -8,8 +8,6 @@
 - Fr. Mossen
 - [[Natalie]]
 - [[Nova]]
-
-### Notable Clients
  
 ---
 ### About

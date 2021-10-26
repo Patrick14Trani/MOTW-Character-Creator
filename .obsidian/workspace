@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "5fee97e070ade777",
+        "id": "d3489a31f2cb06fa",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sessions/Costume Party.md",
+            "file": "Organizations/Knights of Columbus.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Costume Party.md",
+                "file": "Organizations/Knights of Columbus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5fee97e070ade777",
+  "active": "d3489a31f2cb06fa",
   "lastOpenFiles": [
-    "Sessions/Costume Party.md",
-    "Monsters/Lich.md",
-    "Monsters/Shape Shifter.md",
+    "Organizations/Knights of Columbus.md",
     "Organizations/Catholic Church.md",
     "Organizations/UCMG.md",
-    "Characters/HolyHunters/Natalie.md",
-    "Characters/HolyHunters/HolyHunters.md",
     "Dimensions/Dimension728.md",
-    "Characters/HolyHunters/Maxine.md",
-    "Characters/Default.md"
+    "Characters/The Tranis/Tranis.md",
+    "Sessions/Costume Party.md",
+    "Characters/Extras/Chad Strappington.md",
+    "Characters/Extras/Noel.md",
+    "Characters/Default.md",
+    "Monsters/Pheonix.md"
   ]
 }

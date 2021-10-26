@@ -7,4 +7,4 @@
   
 **Abilities/Actions/Attacks:**  
   
-**Vurnerabilities**:  
+**Vulnerabilities**:  

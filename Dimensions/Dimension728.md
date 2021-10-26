@@ -12,9 +12,19 @@ They've adapted and become amazing at hiding among the common rabble. Some have 
 
 ## Organizations
 - [[UCMG]]
+- [[Catholic Church]]
+- [[Knights of Columbus]]
+
+## Availible Sessions
+- [[Costume Party]]
+- [[The Dairy Queen]]
+- [[Festival of Hearts]]
 
 ## Notable Locations
 
 ## Items
 - [[Crafty Cane]]
 - [[The Sacred Heart]]
+
+## Notes
+- Pheonix are extinct

@@ -1,6 +1,6 @@
 # About the Holy Hunters
 
-Currently a beginner group based in the church basement of sacred heart. They  currently consist of a Divine: [[Nova]], Expert: [[Rain]], Spookie: [[Maxine]], and a flake: [[Natalie]]. They are apart of [[Dimension728]]. 
+Currently a beginner group based in the church basement of sacred heart. They  currently consist of a Divine: [[Nova]], Expert: [[Rain]], Spookie: [[Maxine]], and a flake: [[Natalie]]. They are originally from [[Dimension728]]. 
 
 ## Missions
 - [[Festival of Hearts]]

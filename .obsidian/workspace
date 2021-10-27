@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sessions/Costume Party.md",
-            "mode": "preview"
+            "file": "Characters/Extras/Fr. Moss.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Costume Party.md",
+                "file": "Characters/Extras/Fr. Moss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "6525e3719ec984c6",
   "lastOpenFiles": [
-    "Sessions/Costume Party.md",
-    "Characters/HolyHunters/Nova.md",
-    "Organizations/ABI.md",
-    "Organizations/Sinister Sisters.md",
-    "Characters/HolyHunters/HolyHunters.md",
-    "Characters/HolyHunters/Augustine.md",
-    "Characters/Default.md",
-    "Sessions/Festival of Hearts.md",
-    "Sessions/The Dairy Queen.md",
-    "Monsters/Pheonix.md"
+    "Characters/Extras/Fr. Moss.md",
+    "Characters/Extras/Deacon Terry.md",
+    "Characters/Extras/Chad Strappington.md",
+    "Characters/Extras/Brick Boston.md",
+    "Locations/TriLamHouse.md",
+    "Locations/Sacred Heart Church.md",
+    "Locations/Ballwin Dairy Queen.md",
+    "Monsters/types/Demon.md",
+    "Monsters/types/Bigfoot.md",
+    "Monsters/underlings/Lich Knight.md"
   ]
 }

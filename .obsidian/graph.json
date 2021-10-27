@@ -36,10 +36,24 @@
       }
     },
     {
+      "query": "path:Locations",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:Monsters/themonster",
+      "color": {
+        "a": 1,
+        "rgb": 9714139
+      }
+    },
+    {
       "query": "path:Monsters",
       "color": {
         "a": 1,
-        "rgb": 10577826
+        "rgb": 14524654
       }
     }
   ],
@@ -49,10 +63,10 @@
   "nodeSizeMultiplier": 1.02136752136752,
   "lineSizeMultiplier": 2.94786324786325,
   "collapse-forces": false,
-  "centerStrength": 0.401709401709402,
-  "repelStrength": 5.64102564102564,
+  "centerStrength": 0.538461538461538,
+  "repelStrength": 5.98290598290598,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 1.099909222613363,
+  "scale": 0.7845382596022498,
   "close": false
 }

@@ -8,3 +8,8 @@ The players have been notified that all the surrounding ice cream places have be
 ## Featured Characters
 [[Fr. Moss]]
 
+## significant locations
+[[Sacred Heart Church]]
+[[Ballwin Dairy Queen]]
+
+

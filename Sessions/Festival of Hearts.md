@@ -8,7 +8,7 @@ During the Festival some children become
 
 ## Featured Characters
 [[Fr. Moss]]
-[[Tranis]]
+[[Tras]]
 
 ## Location
 [[Sacred Heart Church]]

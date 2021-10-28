@@ -8,7 +8,7 @@ They've adapted and become amazing at hiding among the common rabble. Some have 
 
 ## Hunter Groups
 - [[HolyHunters]]
-- [[Tranis]]
+- [[Tras]]
 
 ## Organizations
 - [[UCMG]]

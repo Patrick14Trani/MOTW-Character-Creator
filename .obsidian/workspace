@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sessions/Mind Prison.md",
+            "file": "Characters/Extras/Brick Boston.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Mind Prison.md",
+                "file": "Characters/Extras/Brick Boston.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "6525e3719ec984c6",
   "lastOpenFiles": [
-    "Sessions/Mind Prison.md",
-    "Locations/places/TriLamHouse.md",
+    "Characters/Extras/Brick Boston.md",
+    "Characters/The Tras/Connor.md",
+    "Characters/The Tras/Erin.md",
+    "Characters/The Tras/David.md",
+    "Characters/The Tras/Tras.md",
     "Locations/places/Sacred Heart Church.md",
-    "Locations/places/Ballwin Dairy Queen.md",
-    "Locations/Governing Bodies/USA.md",
-    "Locations/places/The Gates.md",
-    "Locations/Governing Bodies/Demonia.md",
-    "Organizations/Satanism.md",
-    "Organizations/DBI.md",
-    "Organizations/Knights of Columbus.md"
+    "Characters/The Tras/Pat.md",
+    "Organizations/ABI.md",
+    "Organizations/UCMG.md",
+    "Characters/The Tras/Mo.md"
   ]
 }

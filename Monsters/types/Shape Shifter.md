@@ -13,3 +13,4 @@
 **Vulnerabilities**:  
 - They are not armored or magically protected in anyway. Weapons effect them just as they would any other human  
 - When transformed they obviously also inherit the weaknesses of the form they take on
+- Taking away a limb or any part of them will be reflected when they transform.

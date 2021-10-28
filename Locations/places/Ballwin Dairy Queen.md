@@ -2,7 +2,7 @@
 ## The Grill and Kill
 
 ## About
-A dairy queen that found its way into being corrupted by evil
+A dairy queen that found its way into being corrupted by evil. Found in a state in [[USA | Missouri]].
 
 ## Other Notes
 

@@ -5,6 +5,7 @@
 The Tri lam house is the sorority house somewhat buried in the woods. A dirt driveway leads to it. Behind it is a very spooky looking tree. 
 
 ## Other Notes
+Can be found in the [[USA]] in [[Dimension728]].
 
 ## Dimensions it can be found
 - [[Dimension666]] : Is the sorority house for Demon Mathmeticians

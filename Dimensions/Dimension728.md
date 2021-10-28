@@ -19,6 +19,7 @@ They've adapted and become amazing at hiding among the common rabble. Some have 
 - [[Costume Party]]
 - [[The Dairy Queen]]
 - [[Festival of Hearts]]
+- [[Mind Prison]]
 
 ## Notable Locations
 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Characters/Extras/Fr. Moss.md",
+            "file": "Sessions/Mind Prison.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Extras/Fr. Moss.md",
+                "file": "Sessions/Mind Prison.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "6525e3719ec984c6",
   "lastOpenFiles": [
-    "Characters/Extras/Fr. Moss.md",
-    "Characters/Extras/Deacon Terry.md",
-    "Characters/Extras/Chad Strappington.md",
-    "Characters/Extras/Brick Boston.md",
-    "Locations/TriLamHouse.md",
-    "Locations/Sacred Heart Church.md",
-    "Locations/Ballwin Dairy Queen.md",
-    "Monsters/types/Demon.md",
-    "Monsters/types/Bigfoot.md",
-    "Monsters/underlings/Lich Knight.md"
+    "Sessions/Mind Prison.md",
+    "Locations/places/TriLamHouse.md",
+    "Locations/places/Sacred Heart Church.md",
+    "Locations/places/Ballwin Dairy Queen.md",
+    "Locations/Governing Bodies/USA.md",
+    "Locations/places/The Gates.md",
+    "Locations/Governing Bodies/Demonia.md",
+    "Organizations/Satanism.md",
+    "Organizations/DBI.md",
+    "Organizations/Knights of Columbus.md"
   ]
 }

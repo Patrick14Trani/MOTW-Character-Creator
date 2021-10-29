@@ -86,15 +86,15 @@ Characters that are not a part of the sorority but can be helpful
 
 
 ## Key Events
-- Rick and Morty Stealing Chat: This is really just an easter egg. Rick is too powerful and if chased or annoyed he'll just teleport whoever to the backyard.
+- Rick and Morty Stealing Chad: This is really just an easter egg. Rick is too powerful and if chased or annoyed he'll just teleport whoever to the backyard.
 
-- Corn Hold Game: Players could convince it to be doubles and someone be on brads team and another on Amy's. 
+- Corn Hole Game: Players could convince it to be doubles and someone be on brads team and another on Amy's. 
 
 - Beer Pong Tournament: Brad starts a beer pong tournament. Players can participate in the tournament and will get a good realization that Brad goes off elsewhere
 
 - Dance tournament: The couples will have a dance battle. Players are more than welcome to grab a partner and partake. They will see Amy and Susan go off upstairs.
 
-- Brelinda: If the players follow Berlinda or stay with her, or grab the dogs attention she will be safe. She may approach whatever PC and ask why people like partie. If they inspire confidence in her she'll go to the living room and be safe. The dog will continue on its path. **If she dies** - Her body will be horrifically slashed and bites will be take out of her body. Evidence is very scarce. Just large open wounds. Looking back in time would reveal the Berlinda going to grab the ball Lanie's room and then a creature coming in behind her and murdering her, eating her a bit, then stashing her body.
+- Brelinda: If the players follow Berlinda or stay with her, or grab the dogs attention she will be safe. She may approach whatever PC and ask why people like partie. If they inspire confidence in her she'll go to the living room and be safe. The dog will continue on its path. **If she dies** - Her body will be horrifically slashed and bites will be take out of her body. Evidence is very scarce. Just large open wounds. Looking back in time would reveal the Berlinda going to grab the ball Lanie's room and then a creature coming in behind her and murdering her, eating her a bit, then stashing her body. Possibly getting evidence off her body would be like saliva DNA, and grey skin under her fingernails. She also has dog fur on her.
 
 - Marge Death: The dog has befriended her and the party kicks off and she really wants to get out so she goes outside and the dog follows. She does and sits down with her legs hanging off the poarch. The dog goes down into the yard below. Transforms and pulls her down below. Quickly silences and kills her and drags the body around the side.
 

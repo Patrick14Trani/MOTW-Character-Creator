@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sessions/The Lucky Charms.md",
+            "file": "Sessions/Costume Party.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/The Lucky Charms.md",
+                "file": "Sessions/Costume Party.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,13 @@
   },
   "active": "85618b186582cebd",
   "lastOpenFiles": [
-    "Sessions/The Lucky Charms.md",
     "Sessions/Costume Party.md",
+    "Characters/Extras/Rick Sanchez.md",
+    "Characters/Default.md",
+    "Items/Portal Gun.md",
+    "Items/Crafty Cane.md",
+    "Items/The Sacred Heart.md",
+    "Sessions/The Dairy Queen.md",
     "Sessions/Mind Prison.md",
     "Sessions/The Dairy Queen.md",
     "Sessions/Festival of Hearts.md",

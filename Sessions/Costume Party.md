@@ -37,52 +37,52 @@ Characters that are not a part of the sorority but can be helpful
 
 ## Transitions
 1. 9:00
-	- Front Yard: Noel is out greeting guests and being interviewed by Marge. On the poarch ledge sits a cat. 
-	- Back Yard: No one has made it out there
-	- Living Room: Berlinda is playing with a dog. Patricia is chatting with some guests.
-	- Kitchen: Amy is getting and eye for Susan, Nevil is creeping a bit and going through the cabinets. 
-	- Game Room: Brad sits alone waiting for someone to play pool with.
-	- Upstairs: All the bedrooms ar upstairs and Peyton is still getting ready for the party
+	- **Front Yard**: Noel is out greeting guests and being interviewed by Marge. On the poarch ledge sits a cat. 
+	- **Back Yard**: No one has made it out there
+	- **Living Room**: Berlinda is playing with a dog. Patricia is chatting with some guests.
+	- **Kitchen**: Amy is getting and eye for Susan, Nevil is creeping a bit and going through the cabinets. 
+	- **Game Room**: Brad sits alone waiting for someone to play pool with.
+	- **Upstairs**: All the bedrooms ar upstairs and Peyton is still getting ready for the party
 	
 2. 9:30
-	- Front Yard: Peyton come down the stairs and outside to meet up with Chris. They chat alone out there or try to when Rick n Morty come bursting outside with [[Chad Strappington | Chad]] in tow.
-	- Back Yard: Some Cornhole is in session. Brad found Amy and amy wanted to show off for susan so they are having a cornhole battle. Little does amy know susan is super into her.
-	- Living Room: Marge is sitting amongst guests who are getting started on drinks. Marge does not drink, she thinks it's stupid. The cat has wandered in and sits looking for a target. It's eyes narrow.
-	- Kitchen: Noel is currently helping get out all the drinks. Neville begins to creep on her. Patricai is challenging people to down shots.
-	- Game Room: Currently just some random guests playing an assortment of games
-	- Upstairs: Berlinda is being killed by the dog. By the end of the time, the dog will have returned to the living room.
+	- **Front Yard**: Peyton come down the stairs and outside to meet up with Chris. They chat alone out there or try to when Rick n Morty come bursting outside with [[Chad Strappington | Chad]] in tow.
+	- **Back Yard**: Some Cornhole is in session. Brad found Amy and amy wanted to show off for susan so they are having a cornhole battle. Little does amy know susan is super into her.
+	- **Living Room**: Marge is sitting amongst guests who are getting started on drinks. Marge does not drink, she thinks it's stupid. The cat has wandered in and sits looking for a target. It's eyes narrow.
+	- **Kitchen**: Noel is currently helping get out all the drinks. Neville begins to creep on her. Patricai is challenging people to down shots.
+	- **Game Room**: Currently just some random guests playing an assortment of games
+	- **Upstairs**: Berlinda is being killed by the dog. By the end of the time, the dog will have returned to the living room.
 
 3. 10:00
-	- Front yard: A small amount of people are leaving. Peyton and Chris still chilling.
-	- Back Yard: After a close match Amy came out on top and her and susan are chatting eachother up out there. Brad has some ego damage and goes to start a beer pong tournament.
-	- Living Room: Music has been put on and Noel and guests are dancing. Players could romance her if they wish. Observing players would notice the cat go outside with a guest. Marge is getting uncomfortable with the music and the sits with her. Patricia is still pounding back drinks and grinding on whoever.
-	- Kitchen: Nevil continues to weird out individuals and has begun a science experiment.
-	- Game Room: Brad gets down there and begins a beer pong tournament
-	- Upstairs: Berlinda is very much dead. Body torn and eaten off of. Throat slashed through, hell nearly decapitated.
+	- **Front yard**: A small amount of people are leaving. Peyton and Chris still chilling.
+	- **Back Yard**: After a close match Amy came out on top and her and susan are chatting eachother up out there. Brad has some ego damage and goes to start a beer pong tournament.
+	- **Living Room**: Music has been put on and Noel and guests are dancing. Players could romance her if they wish. Observing players would notice the cat go outside with a guest. Marge is getting uncomfortable with the music and the sits with her. Patricia is still pounding back drinks and grinding on whoever.
+	- **Kitchen**: Nevil continues to weird out individuals and has begun a science experiment.
+	- **Game Room**: Brad gets down there and begins a beer pong tournament
+	- **Upstairs**: Berlinda is very much dead. Body torn and eaten off of. Throat slashed through, hell nearly decapitated.
 	
 4. 10:30
- 	- Front Yard: Marge takes her doggo friend outside. Towards the end of this time, the dog will attempt to quickly murder her. No guests are leaving at this time. At the end it will attempt to magically lock the back door.
- 	- Back yard: The cat will be killing it's victim out behind the tree. At the end of the time it will attempt to magically lock the back door.
- 	- Living Room: The two love interest groups will be getting it on at the dance floor. They will begin a dance battle
- 	- Kitchen: Neville will be farther along with his experiment.
- 	- Game Room: Noel decided to join the festivities
- 	- Upstairs: Berlinda Body. Brad will be in the same room as the body. He will be looking for an item to remind him of his old girlfriend. In fact he will find the body and freak out! 
+ 	- **Front Yard**: Marge takes her doggo friend outside. Towards the end of this time, the dog will attempt to quickly murder her. No guests are leaving at this time. At the end it will attempt to magically lock the back door.
+ 	- **Back yard**: The cat will be killing it's victim out behind the tree. At the end of the time it will attempt to magically lock the back door.
+ 	- **Living Room**: The two love interest groups will be getting it on at the dance floor. They will begin a dance battle
+ 	- **Kitchen**: Neville will be farther along with his experiment.
+ 	- **Game Room**: Noel decided to join the festivities
+ 	- **Upstairs**: Berlinda Body. Brad will be in the same room as the body. He will be looking for an item to remind him of his old girlfriend. In fact he will find the body and freak out! 
 
 5. 11:00
-	- Front Yard: The dog will have just killed marge possibly and now be rounding to the side of the house will it will transform and attempt to scale/ enter through Amy's room.
-	- Back Yard: The cat will entering through a cracked window that leads into the basement.
-	- Living Room: Winning the dance party Peyton and Chris will remain. Noel will have received a text from Brad and be looking for the first person she can find. 
-	- Kitchen: Neville's Experiment will explode causing quite a bit of loud chaos and even more worry if the doors are locked. Neville will be laughing maniacally.
-	- Game Room: A very hammered Patricia will find her cat in the basement.
-	- Upstairs: Brad will be panicking in the room and have the door locked. Amy and susan will getting started on some sexy time when a loud bang goes off and people are screaming. Their screams may be drowned out by all these screams when a creature comes through their window. 
+	- **Front Yard**: The dog will have just killed marge possibly and now be rounding to the side of the house will it will transform and attempt to scale/ enter through Amy's room.
+	- **Back Yard**: The cat will entering through a cracked window that leads into the basement.
+	- **Living Room**: Winning the dance party Peyton and Chris will remain. Noel will have received a text from Brad and be looking for the first person she can find. 
+	- **Kitchen**: Neville's Experiment will explode causing quite a bit of loud chaos and even more worry if the doors are locked. Neville will be laughing maniacally.
+	- **Game Room**: A very hammered Patricia will find her cat in the basement.
+	- **Upstairs**: Brad will be panicking in the room and have the door locked. Amy and susan will getting started on some sexy time when a loud bang goes off and people are screaming. Their screams may be drowned out by all these screams when a creature comes through their window. 
 
 6. 11:30
-	- Front Yard: Nobody, Door locked
-	- Back Yard: Rando Body
-	- Living Room: Absolute chaos is ensuing
-	- Kitchen: Neville is manically laughing and attempting to recreate his explosion
-	- Game Room: Patricia being brutally murdered by her cat.
-	- Upstairs: Creature attacking Amy and Susan...
+	- **Front Yard**: Nobody, Door locked
+	- **Back Yard**: Rando Body
+	- **Living Room**: Absolute chaos is ensuing
+	- **Kitchen**: Neville is manically laughing and attempting to recreate his explosion
+	- **Game Room**: Patricia being brutally murdered by her cat.
+	- **Upstairs**: Creature attacking Amy and Susan...
 
 
 ## Key Events
@@ -112,6 +112,7 @@ Characters that are not a part of the sorority but can be helpful
 
 ## Notes
 - Remeber that those are transitions... The characters can still move about and the players may change up their paths. Use down here to store what players are doing.
+- Evidence of 
 
 
 ## Neville Pickup lines

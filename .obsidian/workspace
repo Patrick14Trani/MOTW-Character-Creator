@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "6525e3719ec984c6",
+        "id": "85618b186582cebd",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Sessions/The Lucky Charms.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sessions/The Lucky Charms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6525e3719ec984c6",
+  "active": "85618b186582cebd",
   "lastOpenFiles": [
-    "Characters/Extras/Rick Sanchez.md",
-    "Characters/Default.md",
-    "Items/Portal Gun.md",
-    "Items/Crafty Cane.md",
-    "Items/The Sacred Heart.md",
+    "Sessions/The Lucky Charms.md",
     "Sessions/Costume Party.md",
-    "Sessions/The Dairy Queen.md",
     "Sessions/Mind Prison.md",
+    "Sessions/The Dairy Queen.md",
     "Sessions/Festival of Hearts.md",
-    "Characters/Extras/Brick Boston.md"
+    "Monsters/types/Leprechuans.md",
+    "Organizations/Blitz Co.md",
+    "Organizations/DBI.md",
+    "Organizations/Knights of Columbus.md",
+    "Organizations/ABI.md"
   ]
 }

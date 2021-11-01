@@ -16,6 +16,7 @@ They've adapted and become amazing at hiding among the common rabble. Some have 
 - [[Knights of Columbus]]
 
 ## Availible Sessions
+- [[The Lucky Charms]]
 - [[Costume Party]]
 - [[The Dairy Queen]]
 - [[Festival of Hearts]]

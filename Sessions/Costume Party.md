@@ -4,6 +4,8 @@ Players all summoned to a party by [[Noel]], a sorotity member of Lambda Lambda 
 
 She missed the last sorority trip to Orange Beach and the group came back with one less person. Not to mention members have sort of just dissapeared throughout the year from several sororities. She suspects foul play.
 
+She herself is aware of the monsters in the world and due to it being Halloween, is sort of scared that maybe one of them is a monster and that this party is going to turn out like a horror movie.
+
 ## Monster
 [[Shape Shifter]]
 
@@ -94,9 +96,9 @@ Characters that are not a part of the sorority but can be helpful
 
 - Dance tournament: The couples will have a dance battle. Players are more than welcome to grab a partner and partake. They will see Amy and Susan go off upstairs.
 
-- Brelinda: If the players follow Berlinda or stay with her, or grab the dogs attention she will be safe. She may approach whatever PC and ask why people like partie. If they inspire confidence in her she'll go to the living room and be safe. The dog will continue on its path. **If she dies** - Her body will be horrifically slashed and bites will be take out of her body. Evidence is very scarce. Just large open wounds. Looking back in time would reveal the Berlinda going to grab the ball Lanie's room and then a creature coming in behind her and murdering her, eating her a bit, then stashing her body. Possibly getting evidence off her body would be like saliva DNA, and grey skin under her fingernails. She also has dog fur on her.
+- Brelinda: If the players follow Berlinda or stay with her, or grab the dogs attention she will be safe. She may approach whatever PC and ask why people like partie. If they inspire confidence in her she'll go to the living room and be safe. The dog will continue on its path. **If she dies** - Her body will be horrifically slashed and bites will be take out of her body. Evidence is very scarce. Just large open wounds. Looking back in time would reveal the Berlinda going to grab the ball Lanie's room and then a creature coming in behind her and murdering her, eating her a bit, then stashing her body. Possibly getting evidence off her body would be like saliva DNA, and grey skin under her fingernails. She also has dog fur on her. Also covered in dog hair.
 
-- Marge Death: The dog has befriended her and the party kicks off and she really wants to get out so she goes outside and the dog follows. She does and sits down with her legs hanging off the poarch. The dog goes down into the yard below. Transforms and pulls her down below. Quickly silences and kills her and drags the body around the side.
+- Marge Death: The dog has befriended her and the party kicks off and she really wants to get out so she goes outside and the dog follows. She does and sits down with her legs hanging off the poarch. The dog goes down into the yard below. Transforms and pulls her down below. Quickly silences and kills her and drags the body around the side. Her body is near hidden. It almost looks like a prop with its leg sticking out. 
 
 - Rando's Death: The cat has lured someone outside. Could be a random guest, could be a player. It brings them out behind the tree and murders them. If it is a player the cat will be wary. It can sense the situation. It will go to lock the door first and then try and lure the player out to the tree or watch the player.
 
@@ -112,6 +114,7 @@ Characters that are not a part of the sorority but can be helpful
 
 ## Notes
 - Remeber that those are transitions... The characters can still move about and the players may change up their paths. Use down here to store what players are doing.
+- [Playlist for Party Theme](https://www.youtube.com/watch?v=xsWw_G-5-k4)
 
 
 ## Neville Pickup lines

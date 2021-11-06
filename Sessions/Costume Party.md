@@ -47,7 +47,7 @@ Characters that are not a part of the sorority but can be helpful
 	- **Upstairs**: All the bedrooms ar upstairs and Peyton is still getting ready for the party
 	
 2. 9:30
-	- **Front Yard**: Peyton come down the stairs and outside to meet up with Chris. They chat alone out there or try to when Rick n Morty come bursting outside with [[Chad Strappington | Chad]] in tow.
+	- **Front Yard**: Peyton come down the stairs and outside to meet up with Chris. They chat alone out there or try to when [[Rick Sanchez]] and [[Morty]] come bursting outside with [[Chad Strappington | Chad]] in tow.
 	- **Back Yard**: Some Cornhole is in session. Brad found Amy and amy wanted to show off for susan so they are having a cornhole battle. Little does amy know susan is super into her.
 	- **Living Room**: Marge is sitting amongst guests who are getting started on drinks. Marge does not drink, she thinks it's stupid. The cat has wandered in and sits looking for a target. It's eyes narrow.
 	- **Kitchen**: Noel is currently helping get out all the drinks. Neville begins to creep on her. Patricai is challenging people to down shots.

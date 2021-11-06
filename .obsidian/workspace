@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "85618b186582cebd",
+        "id": "6525e3719ec984c6",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Sessions/Costume Party.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Costume Party.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,22 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "85618b186582cebd",
+  "active": "6525e3719ec984c6",
   "lastOpenFiles": [
     "Sessions/Costume Party.md",
     "Characters/Extras/Rick Sanchez.md",
+    "Locations/places/Holly Bluff.md",
+    "Locations/places/The Gates.md",
+    "Classes/The Searcher.md",
+    "Sessions/The Lucky Charms.md",
     "Characters/Default.md",
     "Items/Portal Gun.md",
     "Items/Crafty Cane.md",
-    "Items/The Sacred Heart.md",
-    "Sessions/The Dairy Queen.md",
-    "Sessions/Mind Prison.md",
-    "Sessions/The Dairy Queen.md",
-    "Sessions/Festival of Hearts.md",
-    "Monsters/types/Leprechuans.md",
-    "Organizations/Blitz Co.md",
-    "Organizations/DBI.md",
-    "Organizations/Knights of Columbus.md",
-    "Organizations/ABI.md"
+    "Items/The Sacred Heart.md"
   ]
 }

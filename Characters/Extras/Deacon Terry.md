@@ -1,4 +1,4 @@
-# Fr. Moss
+# Deacon Terry
 ## [[The Initiate]] Apprentice
 ---
  - Luck: 0/7
@@ -34,3 +34,4 @@ The apprentice to [[Fr. Moss]]. A happy go lucky individual trying to make the w
 
 ### Notes
 - Sect: [[Catholic Church]]
+- Found in [[Dimension728]]

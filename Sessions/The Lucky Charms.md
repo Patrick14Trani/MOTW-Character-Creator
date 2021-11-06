@@ -9,7 +9,7 @@ This person has been seeing mysterious character milling about the docks at nigh
 It is now your guys job to investigate the town and figure out what shenanigans are going on. 
 
 ## The Monster
-A gang of [[Leprechuans]]. They are pushing magic drugs referred to as '[[Lucky Charms]]'. They are also kidnapping and attempting to enslave those who they find lurking about. In time they wish to have entire control over the town.
+A gang of [[Leprechuans]] known as the . They are pushing magic drugs referred to as '[[Lucky Charms]]'. They are also kidnapping and attempting to enslave those who they find lurking about. In time they wish to have entire control over the town.
 
 They lurk about during the day in stacks of three covered by a trench coat.
 

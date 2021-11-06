@@ -37,4 +37,5 @@ The Pastor of Sacred Heart Parish, tall and charismatic even growing years. He s
 
 ### Notes
 - Sect: [[Catholic Church]]
+- Dimensions: [[Dimension728]]
   

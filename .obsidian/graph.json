@@ -8,65 +8,86 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:Sessions",
+      "query": "path:Characters/Extras",
       "color": {
         "a": 1,
-        "rgb": 2819563
+        "rgb": 14465652
       }
     },
     {
       "query": "path:Characters",
       "color": {
         "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "path:Organizations",
-      "color": {
-        "a": 1,
-        "rgb": 14160659
-      }
-    },
-    {
-      "query": "path:Dimensions",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
-      }
-    },
-    {
-      "query": "path:Locations",
-      "color": {
-        "a": 1,
-        "rgb": 5419488
+        "rgb": 14782791
       }
     },
     {
       "query": "path:Monsters/themonster",
       "color": {
         "a": 1,
-        "rgb": 9714139
+        "rgb": 3303218
       }
     },
     {
       "query": "path:Monsters",
       "color": {
         "a": 1,
-        "rgb": 14524654
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:Dimensions",
+      "color": {
+        "a": 1,
+        "rgb": 14233665
+      }
+    },
+    {
+      "query": "path:Locations/Planets",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:\"Locations/Governing Bodies\"",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "path:Locations/places",
+      "color": {
+        "a": 1,
+        "rgb": 2505823
+      }
+    },
+    {
+      "query": "path:Organizations",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
+    },
+    {
+      "query": "path:Sessions",
+      "color": {
+        "a": 1,
+        "rgb": 11476439
       }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.02136752136752,
-  "lineSizeMultiplier": 2.94786324786325,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0,
-  "repelStrength": 5.23076923076923,
-  "linkStrength": 0.74017094017094,
-  "linkDistance": 95,
-  "scale": 0.6316046762907517,
+  "centerStrength": 0.124786324786325,
+  "repelStrength": 5.67058823529412,
+  "linkStrength": 0.457647058823529,
+  "linkDistance": 30,
+  "scale": 0.5394323014812427,
   "close": false
 }

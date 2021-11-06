@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "e41f28e6a4acacb5",
+    "id": "067c6c832361b406",
     "type": "split",
     "children": [
       {
-        "id": "6525e3719ec984c6",
+        "id": "66abb5f4a31ca3ea",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -15,15 +15,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8303a2a4e6013c39",
+    "id": "12885ffba5ac18cc",
     "type": "split",
     "children": [
       {
-        "id": "42550fc0efae9877",
+        "id": "a5ad6e231f1c3bc5",
         "type": "tabs",
         "children": [
           {
-            "id": "de73d5a8ae66b8e6",
+            "id": "5125f8d13b4a27dd",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,7 +31,7 @@
             }
           },
           {
-            "id": "6dce8677343e40bd",
+            "id": "c2b5f3ab656e5c65",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -52,15 +52,15 @@
     "width": 300
   },
   "right": {
-    "id": "3a7bb8a8eb448e97",
+    "id": "f82995746ac1297e",
     "type": "split",
     "children": [
       {
-        "id": "395811b4a1baaa0f",
+        "id": "aa149d9228d0549c",
         "type": "tabs",
         "children": [
           {
-            "id": "05b54037490064c0",
+            "id": "205bd41ebf4047eb",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -82,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6525e3719ec984c6",
+  "active": "66abb5f4a31ca3ea",
   "lastOpenFiles": [
-    "Sessions/Costume Party.md",
-    "Characters/Extras/Rick Sanchez.md",
-    "Locations/places/Holly Bluff.md",
-    "Locations/places/The Gates.md",
-    "Classes/The Searcher.md",
-    "Sessions/The Lucky Charms.md",
-    "Characters/Default.md",
-    "Items/Portal Gun.md",
-    "Items/Crafty Cane.md",
-    "Items/The Sacred Heart.md"
+    "Locations/Planets/Earth.md",
+    "Locations/Governing Bodies/Kansas.md",
+    "Locations/Governing Bodies/USA.md",
+    "Locations/places/Shadow Falls.md",
+    "Locations/places/Valley Park.md",
+    "Locations/places/Sacred Heart Church.md",
+    "Characters/Extras/Torna Toff.md",
+    "Locations/Governing Bodies/England.md",
+    "Characters/Extras/Victor Dandin.md",
+    "Characters/Extras/Noel.md"
   ]
 }

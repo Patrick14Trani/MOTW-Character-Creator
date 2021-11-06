@@ -39,3 +39,5 @@
 > I built this company out of my shed.
 
 > Monster is such a crude name for something we don't entirely understand. Yes they wreak havoc by why? 
+
+Found in [[Dimension728]]

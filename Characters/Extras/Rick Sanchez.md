@@ -22,4 +22,5 @@
 ### Description
 - Rick is an extremely intelligent and experienced individual. He goes on crazy adventures with his budyy [[Morty]]. They don't necessarily fight monsters or that isn't their goal, but their tales tend to get them on the receiving end of violence. 
 - One of his current experiments is playing god to [[Dimension728]] by having tricked [[Chad Strappington]] into thinking he is a chosen.
+
 ### Notes

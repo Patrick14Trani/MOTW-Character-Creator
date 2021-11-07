@@ -2,9 +2,15 @@
 ## Flattest thing on the planet
 
 ## About
-Ya we know about this place and all its current issues.
+A state in [[USA]]. Very flat, much farm.
 
-## Other Notes
+## Places in Kansas
+- [[Kansas City]]
+- [[Shadow Falls]]
+	- [[Shadow Falls Sanitarium]]
+
+## Other notes
+[[Earth]]
 
 ## Dimensions it can be found in
 - [[Dimension728]]

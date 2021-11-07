@@ -7,6 +7,7 @@ Small Mishevious indeviduals tired of being portrayed like a cartoon buffoon who
 It can be whatever. Some aren't evilly motivated while others are.
   
 **Abilities/Actions/Attacks:**  
+  They can use magic as well as use any weapon hunters can
   
 **Vulnerabilities**:  
 They have a strong urge to collect gold and other monetary matters to the point where it consumes them and they will abandon what they are doing. 

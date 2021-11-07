@@ -23,6 +23,7 @@ The current political issues in Demonia are:
 - lack of jobs currently due to companies outsourcing to cheaper labor in other countries
 
 ## Other Notes
+[[Earth]]
 
 ## Dimensions it can be found
 - [[Dimension666]]

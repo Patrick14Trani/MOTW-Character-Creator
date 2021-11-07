@@ -8,6 +8,8 @@ Dimension 666 is a very opposite take on the universe. Monsters roam the Earth a
 - [[Bleeding Briars]]
 ## Organizations
 - [[DBI]]
+- [[Sinister Sisters]]
+- [[Satanism]]
 
 ## Availible Sessions
 

@@ -9,11 +9,15 @@ They've adapted and become amazing at hiding among the common rabble. Some have 
 ## Hunter Groups
 - [[HolyHunters]]
 - [[Tras]]
+- [[BandOfMisfits]]
 
 ## Organizations
 - [[UCMG]]
 - [[Catholic Church]]
 - [[Knights of Columbus]]
+- [[Blitz Co]]
+- [[Sinister Sisters]]
+- [[The Fifth Leaf]]
 
 ## Availible Sessions
 - [[The Lucky Charms]]
@@ -21,6 +25,7 @@ They've adapted and become amazing at hiding among the common rabble. Some have 
 - [[The Dairy Queen]]
 - [[Festival of Hearts]]
 - [[Mind Prison]]
+- [[Haunting of Shadow Falls]]
 
 ## Notable Locations
 

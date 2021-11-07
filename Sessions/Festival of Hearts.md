@@ -4,7 +4,7 @@
 During the Festival some children become 
 
 ## The monster
-[[Lich]]
+[[Lich]], created by [[Demowrath]]
 
 ## Featured Characters
 [[Fr. Moss]]

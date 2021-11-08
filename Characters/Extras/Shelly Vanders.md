@@ -1,5 +1,5 @@
 # Shelly Schnapps
-## [[The Hex]] with a brain
+## [[The Hex | The Curious Hex]]
 ---
  - Luck: 0/7
  - Experience: 0/5
@@ -32,6 +32,7 @@ Shelly is a woman in her late 20's. She has brown hair and a slender build. She 
 ### Rotes
 Blood Vision: 
 	- Requirements: Runes/ Symbols written or engraved, Spilling of Blood (1-harm to me)
+	- 
 	
 
 ### Notes

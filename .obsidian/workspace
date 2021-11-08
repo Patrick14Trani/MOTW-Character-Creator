@@ -7,8 +7,11 @@
         "id": "66abb5f4a31ca3ea",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Sessions/The Lucky Charms.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sessions/The Lucky Charms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +88,15 @@
   },
   "active": "66abb5f4a31ca3ea",
   "lastOpenFiles": [
-    "Characters/Extras/Brick Boston.md",
-    "Characters/Extras/Shelly Vanders.md",
-    "Locations/places/St. Louis.md",
-    "Locations/Planets/Earth.md",
-    "Locations/places/Shadow Falls Sanitarium.md",
-    "Locations/places/Kansas City.md",
-    "Dimensions/Dimension666.md",
-    "Dimensions/Dimension728.md",
-    "Dimensions/Dimension321.md",
-    "Organizations/The Fifth Leaf.md"
+    "Sessions/The Lucky Charms.md",
+    "Sessions/The Dairy Queen.md",
+    "Sessions/The Coldest Christmas.md",
+    "Sessions/Mind Prison.md",
+    "Sessions/Haunting of Shadow Falls.md",
+    "Items/Ghosthunter43.md",
+    "Items/Portal Gun.md",
+    "Organizations/UCMG.md",
+    "Items/Crafty Cane.md",
+    "Locations/Planets/Earth.md"
   ]
 }

@@ -28,10 +28,12 @@ They've adapted and become amazing at hiding among the common rabble. Some have 
 - [[Haunting of Shadow Falls]]
 
 ## Notable Locations
-
+- [[Earth]]
+- [[Felisaturn]]
 ## Items
 - [[Crafty Cane]]
 - [[The Sacred Heart]]
+- [[Lucky Charms]]
 
 ## Notes
 - Pheonix are extinct

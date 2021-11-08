@@ -1,4 +1,5 @@
 # The Charms
+Ready to be played? : **No**
 ## The Hook
 Someone has summoned the players to the village of [[Holly Bluff]]. 
 - Could be one of the players companies or agencies

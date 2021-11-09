@@ -34,4 +34,4 @@ The apprentice to [[Fr. Moss]]. A happy go lucky individual trying to make the w
 
 ### Notes
 - Sect: [[Catholic Church]]
-- Found in [[Dimension728]]
+- Found in [[Dimension728]] on the planet [[Earth]].

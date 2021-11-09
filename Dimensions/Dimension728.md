@@ -29,7 +29,7 @@ They've adapted and become amazing at hiding among the common rabble. Some have 
 
 ## Notable Locations
 - [[Earth]]
-- [[Felisaturn]]
+- [[Hearth]]
 ## Items
 - [[Crafty Cane]]
 - [[The Sacred Heart]]

@@ -14,6 +14,6 @@ A standard Monster Hunting company running out of [[Kansas City]]. They speciali
 
 They do has a sponsorship with Adidas. Adidas is unaware as to what their actual purpose is.
 
-| Resources | Rigerous Training | Well Financed |
-| ----------  | ---------------- | ------------------ |
-| Red Tape | Bureaucratic | Inter-departmental Rivalries |
+| Resources | Rigerous Training | Well Financed                |
+| --------- | ----------------- | ---------------------------- |
+| Red Tape  | Bureaucratic      | Inter-departmental Rivalries |

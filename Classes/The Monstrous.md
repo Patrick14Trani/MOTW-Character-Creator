@@ -1,4 +1,4 @@
-# The Initiate
+# The Monsterous
 
 > I feel the hunger, the lust to destroy. But I fight it: I never give in. I’m not human any more, not really, but I have to protect those who still are. That way I can tell myself I’m different to the other monsters. Sometimes I can even believe it.
 

@@ -30,4 +30,4 @@
 - An outgoing person who loves to make friends. She stands at 5'4" and tends to wear atheltic clothing. She keeps her hair bright pink, in fact the only people who know what her natural hair color are her parents.
 
 ### Notes
-Only seen in [[Dimension728]]
+Only seen in [[Dimension728]] on the planet [[Earth]]

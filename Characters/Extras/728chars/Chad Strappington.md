@@ -21,5 +21,7 @@
 ### Description
 
 ### Notes
-Found in [[Dimension728]] and [[Dimension321]]
+Found in [[Dimension728]] 
+- on [[Earth]]
+and [[Dimension321]]
 In Dimension 321 he is the exact same kind of person only half centaur. A jocktaur if you will

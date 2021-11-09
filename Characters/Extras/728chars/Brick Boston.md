@@ -15,7 +15,7 @@
 ### Gear
 - Mallet and Wooden Stakes
 - Silver Sword
-- Crafty Cane
+- [[Crafty Cane]]
 
 ### Moves
 - Often Right
@@ -40,4 +40,4 @@
 
 > Monster is such a crude name for something we don't entirely understand. Yes they wreak havoc by why? 
 
-Found in [[Dimension728]]
+Found in [[Dimension728]] on the planet [[Earth]].

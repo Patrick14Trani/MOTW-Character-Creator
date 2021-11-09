@@ -1,4 +1,4 @@
-# The Charms
+  # The Charms
 Ready to be played? : **No**
 ## The Hook
 Someone has summoned the players to the village of [[Holly Bluff]]. 
@@ -26,7 +26,7 @@ They lurk about during the day in stacks of three covered by a trench coat.
 - **Mayor Dylan**: The mayor of Holly Bluff. Currently very dead with a symbol of the Fifth leaf on his forehead. 
 - **Sheriff Lawson**: A very scared sheriff. His family has been captured and he has been told to stay put in his office until told otherwise. 
 
-- **Sheamus**: Your friend who's nephew went missing.
+- **Sheamus**: Your friend who's nephew went missing. Works at the Plentiful Pint as a cook.
 
 - [[Demowrath]] : Here to make a drug deal with the [[The Fifth Leaf]].
 ## Schedule
@@ -34,21 +34,26 @@ They lurk about during the day in stacks of three covered by a trench coat.
 - Morning (6am - 9am)
 		Description: It's bright and early. The town is waking up. Several elderly people can be seen milling about. Otherwise everyone is getting ready to go to work.
 - Mid Morning (9:30am - 11:50am)
+		- The town is mainly awake, or the workes are anyway. They are off to start work, especially at the docks.
 - Noon (12pm - 1pm)
+		- The pubs open up. Workers go on break. 
 - Afternoon (2pm - 5pm)
+		- Back to work / to the end of work. The shadows begin to get longer.
 - Evening (6pm - 8pm)
-- Dark (9pm - 11pm)
+		- It's beginning to get dark out. People have all started going home or to the pubs for dinner. 
+- Night (9pm - 11pm)
 		Description: The Drug deal is going down now. All remaining leprechauns are at the docks along with [[Demowrath]]. 
 - Midnight (12pm - 3am)
+		- [[The Fifth Leaf]] gets to work in the docks packaging drugs to be sneakily whilst also testing out newer batches grown under the nearby fields.
 
-| Locations | Morning | Mid Morning | Noon | Afternoon | Evening | Night | Midnight |
-| ----------|--------- | -----------|------|-----------|---------|-------|----------|
-| Docks | shady lad, Liam | Liam |
-| Pot of Gold | Closed | 
-| Plentiful Pint | Closed |
-| House | Shaemus | Shaemus 
-| Police Station | Sheriff | Sheriff
-
+| Locations      | Morning         | Mid Morning | Noon               | Afternoon          | Evening           | Night | Midnight |
+| -------------- | --------------- | ----------- | ------------------ | ------------------ | ----------------- | ----- | -------- |
+| Docks          | shady lad, Liam | Liam        | Liam, workers      | Liam, workers      | liam              | liam  | liam     |
+| Pot of Gold    | Closed          | Closed      | Shiela             | Shiela, Shady lad  | Shiela, Shady lad |       |          |
+| Plentiful Pint | Closed          | Shaemus     | Shaemus, Shady Lad | Shaemus            |                   |       |          |
+| House          | Shaemus         | empty       | empty              | empty              | Shaemus           |       |          |
+| Police Station | Sheriff         | Sheriff     | Sheriff, Shady Lad | Sheriff, Shady Lad | Sheriff           |       |          |
+| Town Hall      | Dylan           | Dylan       | Dylan              | Dylan              | Dylan             | Dylan | Dylan    |
 ## Locations
 -[[Holly Bluff]], Massechussets
 - Notable Town Spots:
@@ -57,3 +62,4 @@ They lurk about during the day in stacks of three covered by a trench coat.
 	- The Plentiful Pint pub
 	- (Friend of Groups) House
 	- Police Station
+	- Town Hall

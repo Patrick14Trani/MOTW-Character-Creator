@@ -19,7 +19,7 @@ What was conceived to just be one of the world's biggest religions is also one o
 
 The church is split into parishes and each parish is run by a pastor. The pastor secretly trains groups of warriors. Apprentices are chosen out of the youth group. Schools and sermons remain true to the bible and what the church teaches is not said with intent to lie but it is hidden that monsters exist and often are referenced as sin.
 
-|     Good Traditions     | Chapters Everywhere | Ancient Lore    |
-| ----------------------  | --------------------| ------------    |
-| Bad Traditions          | Strict Laws         | Tradition Bound |
+| Good Traditions | Chapters Everywhere | Ancient Lore    |
+| --------------- | ------------------- | --------------- |
+| Bad Traditions  | Strict Laws         | Tradition Bound |
 

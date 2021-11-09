@@ -10,6 +10,7 @@ Can be found in the [[USA]] in [[Dimension728]].
 ## Dimensions it can be found
 - [[Dimension666]] : Is the sorority house for Demon Mathmeticians
 - [[Dimension728]] : Serves as a normal sorority house. Home to [[Noel]].
+- [[Dimension729]] : Serves as a normal sorority house. Home to [[Noel]].
 
 ## Missions that use this location
 - [[Costume Party]]

@@ -14,17 +14,9 @@ Dimension 666 is a very opposite take on the universe. Monsters roam the Earth a
 ## Availible Sessions
 
 ## Notable Locations
-
+- [[Earth]]
+- [[]]
 ## Items
 
 ## Notes
 - Humans are the monsters in this dimension. Being seen would result in chaos.
-
-## Timeline
-**1960**
-**1970**
-**1980**
-**1990**:
-**2000**:
-**2010**:
-**2020**:

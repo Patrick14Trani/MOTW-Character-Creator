@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Characters/Extras/Galendor.md",
+            "file": "Sessions/The Lucky Charms.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Extras/Galendor.md",
+                "file": "Sessions/The Lucky Charms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,18 +80,10 @@
             }
           },
           {
-            "id": "04d5953d7ca4fdd6",
+            "id": "5d32e0de1659a92d",
             "type": "leaf",
             "state": {
               "type": "todo",
-              "state": {}
-            }
-          },
-          {
-            "id": "3e492ba133d8551c",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
@@ -104,15 +96,15 @@
   },
   "active": "70c2abe091b1e6bf",
   "lastOpenFiles": [
+    "Sessions/The Lucky Charms.md",
+    "Characters/Colored Beasts/The Light One.md",
+    "Characters/Colored Beasts/The Dark One.md",
+    "Locations/Governing Bodies/Carauc.md",
+    "Locations/Governing Bodies/Adastan.md",
     "Characters/Extras/Galendor.md",
-    "Locations/Planets/Hearth.md",
-    "Locations/Planets/Earth.md",
-    "Characters/BandOfMisfits/BandOfMisfits.md",
-    "Characters/BandOfMisfits/Morgana.md",
-    "Characters/Default.md",
-    "Organizations/Galendor's Hand.md",
-    "Locations/Governing Bodies/Irustan.md",
-    "Organizations/Knights of Columbus.md",
-    "Locations/places/Point of Convergence.md"
+    "Monsters/types/Colored Beast.md",
+    "Characters/Colored Beasts/Shayde.md",
+    "Sessions/Unlikely Goliath.md",
+    "Sessions/Mind Prison.md"
   ]
 }

@@ -1,4 +1,4 @@
-# Shelly Schnapps
+# Shelly Vanders
 ## [[The Hex | The Curious Hex]]
 ---
  - Luck: 0/7

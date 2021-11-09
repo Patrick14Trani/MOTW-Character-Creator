@@ -1,5 +1,5 @@
   # The Charms
-Ready to be played? : **No**
+Ready to be played? : **Yes**
 ## The Hook
 Someone has summoned the players to the village of [[Holly Bluff]]. 
 - Could be one of the players companies or agencies
@@ -14,7 +14,7 @@ The ending goals:
 	Figure out what the shady individuals ar and kick them out of town
 
 ## The Monster
-A gang of [[Leprechuans]] known as the [[The Fifth Leaf]]. They are pushing magic drugs referred to as '[[Lucky Charms]]'. They are also kidnapping and attempting to enslave those who they find lurking about. In time they wish to have entire control over the town.
+A gang of [[Leprechuans]] known as the [[The Fifth Leaf]]. They are pushing magic drugs referred to as '[[Lucky Charms]]'. They are also kidnapping and attempting to enslave those who they find lurking about. In time they wish to have entire control over the town. They are being led by [[Torna Teal]].
 
 They lurk about during the day in stacks of three covered by a trench coat.
 
@@ -46,14 +46,14 @@ They lurk about during the day in stacks of three covered by a trench coat.
 - Midnight (12pm - 3am)
 		- [[The Fifth Leaf]] gets to work in the docks packaging drugs to be sneakily whilst also testing out newer batches grown under the nearby fields.
 
-| Locations      | Morning         | Mid Morning | Noon               | Afternoon          | Evening           | Night | Midnight |
-| -------------- | --------------- | ----------- | ------------------ | ------------------ | ----------------- | ----- | -------- |
-| Docks          | shady lad, Liam | Liam        | Liam, workers      | Liam, workers      | liam              | liam  | liam     |
-| Pot of Gold    | Closed          | Closed      | Shiela             | Shiela, Shady lad  | Shiela, Shady lad |       |          |
-| Plentiful Pint | Closed          | Shaemus     | Shaemus, Shady Lad | Shaemus            |                   |       |          |
-| House          | Shaemus         | empty       | empty              | empty              | Shaemus           |       |          |
-| Police Station | Sheriff         | Sheriff     | Sheriff, Shady Lad | Sheriff, Shady Lad | Sheriff           |       |          |
-| Town Hall      | Dylan           | Dylan       | Dylan              | Dylan              | Dylan             | Dylan | Dylan    |
+| Locations      | Morning         | Mid Morning        | Noon               | Afternoon          | Evening           | Night                               | Midnight                |
+| -------------- | --------------- | ------------------ | ------------------ | ------------------ | ----------------- | ----------------------------------- | ----------------------- |
+| Docks          | shady lad, Liam | Liam               | Liam, workers      | Liam, workers      | liam              | liam, [[Demowrath]], [[Torna Teal]] | same as before + Shiela |
+| Pot of Gold    | Closed          | Closed             | Shiela             | Shiela, Shady lad  | Shiela, Shady lad | Shiela                              | normal people           | 
+| Plentiful Pint | Closed          | Shaemus, shady lad | Shaemus, Shady Lad | Shaemus            | normal people     | normal people                       | normal people           |
+| House          | Shaemus         | empty              | empty              | empty              | Shaemus           | Shaemus                             | Shaemus                 |
+| Police Station | Sheriff         | Sheriff            | Sheriff, Shady Lad | Sheriff, Shady Lad | Sheriff           |                                     |                         |
+| Town Hall      | Dylan           | Dylan              | Dylan              | Dylan              | Dylan             | Dylan                               | Dylan                   |
 ## Locations
 -[[Holly Bluff]], Massechussets
 - Notable Town Spots:
@@ -63,3 +63,10 @@ They lurk about during the day in stacks of three covered by a trench coat.
 	- (Friend of Groups) House
 	- Police Station
 	- Town Hall
+
+## Clues / Encounters
+When engaging a sus looking individual. They will ask why you are bothering them. When attempting to get information out of them, they will reveal they are apart of the [[The Fifth Leaf]] and they will never talk and then they'll try to fight back or kill themself.
+
+*Also note that each sus individual is 3 leprechauns stacked on one another and covered in a bright green trenchcoat.*
+
+If you do successfully charm or magically bind them you'll have a better chance at getting to them. Giving them coins will momentarily drop all their guards and you can ask them whatever. If another leprechaun witnesses them giving away information, it will kill them. 

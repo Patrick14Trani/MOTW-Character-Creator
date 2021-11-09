@@ -18,6 +18,7 @@ They've adapted and become amazing at hiding among the common rabble. Some have 
 - [[Blitz Co]]
 - [[Sinister Sisters]]
 - [[The Fifth Leaf]]
+- [[Galendor's Hand]]
 
 ## Availible Sessions
 - [[The Lucky Charms]]
@@ -34,6 +35,6 @@ They've adapted and become amazing at hiding among the common rabble. Some have 
 - [[Crafty Cane]]
 - [[The Sacred Heart]]
 - [[Lucky Charms]]
-
+- [[Ghosthunter43]]
 ## Notes
 - Pheonix are extinct

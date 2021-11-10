@@ -11,7 +11,7 @@ It is now your guys job to investigate the town and figure out what shenanigans 
 
 The ending goals:
 	Find the nephew
-	Figure out what the shady individuals ar and kick them out of town
+	Figure out what the shady individuals are and kick them out of town
 
 ## The Monster
 A gang of [[Leprechuans]] known as the [[The Fifth Leaf]]. They are pushing magic drugs referred to as '[[Lucky Charms]]'. They are also kidnapping and attempting to enslave those who they find lurking about. In time they wish to have entire control over the town. They are being led by [[Torna Teal]].

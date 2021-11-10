@@ -20,6 +20,7 @@ Pretty much the same as dimension 728 only there is no kansas.
 - [[Costume Party]]
 - [[The Dairy Queen]]
 - [[Mind Prison]]
+- [[We're not in Kansas Anymore]]
 ## Notable Locations
 - [[Earth]]
 - [[Hearth]]

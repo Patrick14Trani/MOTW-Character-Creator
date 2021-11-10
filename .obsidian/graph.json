@@ -81,7 +81,7 @@
       "query": "path:Sessions",
       "color": {
         "a": 1,
-        "rgb": 5374441
+        "rgb": 16752362
       }
     }
   ],
@@ -95,6 +95,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.2223572393306872,
+  "scale": 0.15434762086168216,
   "close": false
 }

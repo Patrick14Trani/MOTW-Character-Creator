@@ -1,6 +1,6 @@
 # Earth
-
 ## Dimensions and their locations
+- [[Dimension48]] - Wyatts vision
 - [[Dimension321]] - Planet currently rife with war
 - [[Dimension666]] - Planet full of monsters who are mostly at peace
 	- [[Demonia]]
@@ -22,14 +22,14 @@
 		- [[TriLamHouse]]
 	- [[England]]
 
-- [[Dimension729]]
--  [[USA]]
-	- [[Missouri]]
-		- [[St. Louis]]
-			- [[Valley Park]]
-				- [[Sacred Heart Church]]
-			- [[Ballwin]]
-				- [[Ballwin Dairy Queen]]
-	- [[Massachusetts]]
-		- [[Holly Bluff]]
-		- [[TriLamHouse]]
+- [[Dimension729]] - a planet without kansas
+	-  [[USA]]
+		- [[Missouri]]
+			- [[St. Louis]]
+				- [[Valley Park]]
+					- [[Sacred Heart Church]]
+				- [[Ballwin]]
+					- [[Ballwin Dairy Queen]]
+		- [[Massachusetts]]
+			- [[Holly Bluff]]
+			- [[TriLamHouse]]

@@ -15,3 +15,5 @@ The planet Felisaturn is a human inhabited planet however it was first inhabited
 
 - [[Dimension666]] : The Black creature, assisted by demons and monsters was freed and has full control. The planet is a hellscape of chaos and killing.
 	- [[Carauc]]
+		- [[Scarlet Mountains]]
+		- [[Bleeding Hills]]

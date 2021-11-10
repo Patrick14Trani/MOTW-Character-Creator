@@ -1,7 +1,7 @@
 # Lucas
 
 ## Description
-Lucas is the smallest of the group, somewhat of the child. He shines a vibrant yellow that is near impossible to miss
+Lucas is the smallest of the group, somewhat of the child. He shines a vibrant yellow that is near impossible to miss. Born on [[Hearth]].
 
 ## Background
 The yellow [[Colored Beast]] and supposed god over the peole of [[Adastan]]. Lucas often instead of being around his people would be tailing [[Ramu]]. He would help him consume some of his sacrafices and although he didn't agree with Ramu's way of leading, he didn't know any better himself
@@ -12,3 +12,6 @@ After the walls fell Lucas was trapped and imprisoned by [[Galendor's Hand]].
 
  
 ## Abilities
+
+## Notes
+availible on [[Dimension728]] and [[Dimension729]]

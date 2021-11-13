@@ -1,5 +1,6 @@
 # Hearth
-The planet Felisaturn is a human inhabited planet however it was first inhabited by an ancient species of part cat, part bird, part human individuals. They are on the god tier of power and existence. The planet is small and has one single, very large, landmass that houses a country for each creature.
+## About
+The planet Hearth is a human inhabited planet however it was first inhabited by an ancient species of part cat, part bird, part human individuals. They are on the god tier of power and existence. The planet is small and has one single, very large, landmass that houses a country for each creature.
 
 
 ## Dimensions and their locations

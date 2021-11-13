@@ -7,12 +7,18 @@ Is this ready to be played?: **Yes**
 ## The Hook
 Locals of [[Shadow Falls]] have been reporting a haunting at the [[Shadow Falls Sanitarium]]. [[Blitz Co]] founder [[Victor Dandin]] has asked that you deal with the situation. He can't risk any of his troops on this one.
 
+He recruited expert ghost hunter [[Shelly Vanders]] to get together a team. All member should at least come up with a way they know Shelly.
+
 ## The Monster
 - [[Revenant Dave Vanders]] : A reanimated corpse wielding an assortment of weapons found off of guard bodies. 
 
 ## Featured Characters
 - [[Victor Dandin]]: Owner of Blitz Co
 - [[Shelly Vanders]]: Ghost Hunter Extrodanair
+	- Has her ghost hunting van: Inside the van are several cases full of ghost hunting equiptment.
+
+- The equipment: 
+	Every player will receive a ghost hunting pass
 
 ## Schedule
 This mission doesn't really have a schedule. Instead this section will go over clues and such for the area. There will also be a sort of timer based on how long they are in there. The ghost will begin to prey on their fear if it displays. If 4 ghost events get triggered, the ghost will do a short hunt.
@@ -22,6 +28,8 @@ Once the players discover the ghost type, they can report this to Shelly or do t
 Depending on what Shelly has found, she may not want to kill the ghost of her father. She will have to be convinced to help fight. 
 
 #### Clues in each location / Ghost Events in each location
+GH: At any point inside the sanitarium if the players say the name Bill Stringer. The ghost will appear behind the person and breathe on their neck. 
+
 **The Bar**: Inside are members of [[UCMG]]. They will come over when Shelly goes to the rest room and request that you recover some things for them. One would be a tech weapon that is unstable and then also files on *Vince Davids* (Victor Dandins Real name)
 
 **Entrance/Lobby**: There are computers in the entrance. The power is off but the computers still have hardrives intact. From these hard drives some security footage can be accessed of several areas on the day of the break out. 
@@ -76,7 +84,7 @@ Finding the key to archives will result in the ghost appearing and pointing out 
 Opening her father's file will result in a ghost event. The ghost will teleport there and reveal itself crying for a few seconds.
 ## Locations
 - [[Shadow Falls]]
-	- The local pub : Here members of [[UCMG]] will be waiting for the players. They will give them a side objective to find files on the name 'Bill Stringer'. Otherwise it will be locals complaining about a recent group of teens who just dissapeared in the sanitarium. 
+	- The local pub : Here [[Agent Hoffman]] from the [[UCMG]] will be waiting for the players. They will give them a side objective to find files on the name 'Bill Stringer'. Otherwise it will be locals complaining about a recent group of teens who just dissapeared in the sanitarium. 
 - [[Shadow Falls Sanitarium]]
 	- Entrance / Lobby
 	- Medical Ward

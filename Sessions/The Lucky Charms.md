@@ -46,14 +46,14 @@ They lurk about during the day in stacks of three covered by a trench coat.
 - Midnight (12pm - 3am)
 		- [[The Fifth Leaf]] gets to work in the docks packaging drugs to be sneakily whilst also testing out newer batches grown under the nearby fields.
 
-| Locations      | Morning         | Mid Morning        | Noon               | Afternoon          | Evening           | Night                               | Midnight                |
-| -------------- | --------------- | ------------------ | ------------------ | ------------------ | ----------------- | ----------------------------------- | ----------------------- |
-| Docks          | shady lad, Liam | Liam               | Liam, workers      | Liam, workers      | liam              | liam, [[Demowrath]], [[Torna Teal]] | same as before + Shiela |
-| Pot of Gold    | Closed          | Closed             | Shiela             | Shiela, Shady lad  | Shiela, Shady lad | Shiela                              | normal people           | 
-| Plentiful Pint | Closed          | Shaemus, shady lad | Shaemus, Shady Lad | Shaemus            | normal people     | normal people                       | normal people           |
-| House          | Shaemus         | empty              | empty              | empty              | Shaemus           | Shaemus                             | Shaemus                 |
-| Police Station | Sheriff         | Sheriff            | Sheriff, Shady Lad | Sheriff, Shady Lad | Sheriff           |                                     |                         |
-| Town Hall      | Dylan           | Dylan              | Dylan              | Dylan              | Dylan             | Dylan                               | Dylan                   |
+| Locations      | Morning         | Mid Morning        | Noon               | Afternoon           | Evening           | Night                               | Midnight                |
+| -------------- | --------------- | ------------------ | ------------------ | ------------------- | ----------------- | ----------------------------------- | ----------------------- |
+| Docks          | shady lad, Liam | Liam               | Liam, workers      | Liam, workers, sean | liam, sean        | liam, [[Demowrath]], [[Torna Teal]] | same as before + Shiela |
+| Pot of Gold    | Closed          | Closed, sean       | Shiela, sean       | Shiela, Shady lad   | Shiela, Shady lad | Shiela, sean                        | normal people, sean     | 
+| Plentiful Pint | Closed          | Shaemus, shady lad | Shaemus, Shady Lad | Shaemus             | normal people     | normal people                       | normal people           |
+| House          | Shaemus         | empty              | empty              | empty               | Shaemus           | Shaemus                             | Shaemus                 |
+| Police Station | Sheriff, Sean   | Sheriff            | Sheriff, Shady Lad | Sheriff, Shady Lad  | Sheriff           |                                     |                         |
+| Town Hall      | Dylan           | Dylan              | Dylan              | Dylan               | Dylan             | Dylan                               | Dylan                   |
 ## Locations
 -[[Holly Bluff]], Massechussets
 - Notable Town Spots:

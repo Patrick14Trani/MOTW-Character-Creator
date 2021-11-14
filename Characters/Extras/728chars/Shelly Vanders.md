@@ -27,6 +27,8 @@
 ### Description
 Shelly is a woman in her late 20's. She has brown hair and a slender build. She stands at 5'5". She always wears a black cloak and nicer clothes.
 
+Thicc Dumpy
+
 **Temptation**: Secrets - Use magic to discover forbidden, dangerous knowledge
 
 ### Rotes

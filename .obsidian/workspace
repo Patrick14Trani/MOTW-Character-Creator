@@ -7,11 +7,8 @@
         "id": "70c2abe091b1e6bf",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Locations/Governing Bodies/South Dornam.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Governing Bodies/South Dornam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +92,15 @@
   },
   "active": "70c2abe091b1e6bf",
   "lastOpenFiles": [
-    "Locations/Governing Bodies/South Dornam.md",
-    "Locations/Governing Bodies/North Dornam.md",
-    "Locations/places/Son's Watch.md",
-    "Locations/places/Helper's Harbor.md",
-    "Locations/places/The Fallen Fields.md",
+    "Locations/Planets/Nirn.md",
     "Locations/Planets/Zeneth.md",
-    "Locations/places/The Crossing.md",
-    "Locations/places/Fort Sigmund.md",
-    "Locations/places/Fort Skyhaven.md",
-    "Locations/places/Holly Bluff.md"
+    "Sessions/Festival of Hearts.md",
+    "Sessions/Haunting of Shadow Falls.md",
+    "Sessions/Costume Party.md",
+    "Sessions/Mind Prison.md",
+    "Sessions/The Coldest Christmas.md",
+    "Sessions/The Dairy Queen.md",
+    "Sessions/The Lucky Charms.md",
+    "Items/Z-Virus.md"
   ]
 }

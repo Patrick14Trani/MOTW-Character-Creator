@@ -18,7 +18,13 @@ He recruited expert ghost hunter [[Shelly Vanders]] to get together a team. All 
 	- Has her ghost hunting van: Inside the van are several cases full of ghost hunting equiptment.
 
 - The equipment: 
-	Every player will receive a ghost hunting pass
+	Every player will receive a ghost hunting bag each equipped with. 
+	- emf
+	- thermo
+	- camera
+	- voice box
+	- smudge stick / match
+	- glowstick
 
 ## Schedule
 This mission doesn't really have a schedule. Instead this section will go over clues and such for the area. There will also be a sort of timer based on how long they are in there. The ghost will begin to prey on their fear if it displays. If 4 ghost events get triggered, the ghost will do a short hunt.

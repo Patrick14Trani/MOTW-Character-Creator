@@ -14,6 +14,7 @@
 		- [[Riften]]
 		- [[Windhelm]]
 		- [[Morthal]]
+		- [[High Hrothgar]]
 	- [[Hammerfell]]
 	- [[High Rock]]
 	- [[Cyrodiil]]

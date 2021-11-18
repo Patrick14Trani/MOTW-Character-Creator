@@ -7,4 +7,4 @@ This is the gateway in and out of [[Heaven]]. Exciting with specific runes can b
 ## Other Notes
 
 ## Dimensions it can be found
-- [[Heaven]]
+- [[Heaven

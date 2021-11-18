@@ -27,10 +27,13 @@ They've adapted and become amazing at hiding among the common rabble. Some have 
 - [[Festival of Hearts]]
 - [[Mind Prison]]
 - [[Haunting of Shadow Falls]]
+- [[We're not in Kansas Anymore]]
 
 ## Notable Locations
 - [[Earth]]
 - [[Hearth]]
+- [[Nirn]]
+- [[Etran Harborage]]
 ## Items
 - [[Crafty Cane]]
 - [[The Sacred Heart]]

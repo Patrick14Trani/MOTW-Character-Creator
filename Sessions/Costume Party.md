@@ -1,4 +1,5 @@
 # Costume Party
+**Ready to Play?: YES**
 ## Hook
 Players all summoned to a party by [[Noel]], a sorotity member of Lambda Lambda Lambda. She is scared that another one of the members is doing something to the rest of them. 
 

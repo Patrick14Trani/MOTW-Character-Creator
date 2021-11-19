@@ -108,3 +108,5 @@ Rick will create them a portal where ever they want to go. Or the players can st
 - [[Kansas City]] and [[Missouri City]]
 	- [[Pet Stop]]
 - [[Demonia]]
+- [[Etran Harborage]]
+	- [[Blood Gultch]]

@@ -1,6 +1,6 @@
 # Nirn
 ## About
-
+The Land of the dragon born.. the land of the elder scrolls
 ## Dimensions and their locations
 [[Dimension728]]: 
 - [[Tamriel]]

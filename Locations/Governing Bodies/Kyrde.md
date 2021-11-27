@@ -10,4 +10,5 @@ The smallest of the continents on [[Zeneth]]. This continent contains the most d
 
 ## Dimensions it can be found
 - [[Dimension728]]
+-  [[Dimension728B]]
 - [[Dimension729]]

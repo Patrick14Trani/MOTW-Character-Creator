@@ -8,4 +8,5 @@ A small city within the [[St. Louis]] county.
 [[Ballwin Dairy Queen]]
 ## Dimensions it can be found
 - [[Dimension728]]
+- [[Dimension728B]]
 - [[Dimension729]]

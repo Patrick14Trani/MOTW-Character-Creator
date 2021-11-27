@@ -1,6 +1,6 @@
 {
   "collapse-filter": true,
-  "search": "-path:Abilities -path:Classes",
+  "search": "-path:Abilities -path:Classes -file:ToDo",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -67,7 +67,7 @@
       "query": "path:Items",
       "color": {
         "a": 1,
-        "rgb": 15111316
+        "rgb": 14343698
       }
     },
     {
@@ -95,6 +95,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.11660891579457555,
+  "scale": 0.19207122077522368,
   "close": false
 }

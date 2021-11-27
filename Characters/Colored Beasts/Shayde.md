@@ -8,4 +8,4 @@ When the walls dropped Shayde was nowhere to be seen. It is a mischevious and se
 ## Abilities
 
 ## Notes
-availible on [[Dimension728]] and [[Dimension729]]
+availible on [[Dimension728]] and [[Dimension729]] and  [[Dimension728B]]

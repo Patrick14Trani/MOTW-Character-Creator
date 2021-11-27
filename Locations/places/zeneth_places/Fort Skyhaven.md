@@ -8,6 +8,7 @@ The fortress of [[Sky Warriors]], led by [[Melissa Carter]], is on one of the sn
 
 ## Dimensions it can be found
 - [[Dimension728]]
+-  [[Dimension728B]]
 - [[Dimension729]]
 
 ## Missions that use this location

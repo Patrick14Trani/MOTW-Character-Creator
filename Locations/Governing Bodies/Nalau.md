@@ -10,4 +10,5 @@ This country is the most mystical on [[Hearth]] as well as the least visited. Ev
 
 ## Dimensions it can be found
 - [[Dimension728]]
+-  [[Dimension728B]]
 - [[Dimension729]]

@@ -14,3 +14,4 @@ A state in [[USA]]. Very flat, much farm.
 
 ## Dimensions it can be found in
 - [[Dimension728]]
+-  [[Dimension728B]]

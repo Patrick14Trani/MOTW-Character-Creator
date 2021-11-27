@@ -7,7 +7,7 @@ Earth.. The place we all know and love. Depending on the dimension it can have v
 - [[Dimension666]] - Planet full of monsters who are mostly at peace
 	- [[Demonia]]
 		- [[TriLamHouse]]
-- [[Dimension728]] - A planet currently rife with tons of issues
+- [[Dimension728]] and  [[Dimension728B]] - A planet currently rife with tons of issues
 	- [[USA]]
 		- [[Missouri]]
 			- [[St. Louis]]
@@ -23,6 +23,7 @@ Earth.. The place we all know and love. Depending on the dimension it can have v
 				- [[Shadow Falls Sanitarium]]
 		- [[TriLamHouse]]
 	- [[England]]
+	- [[Isla Nublar]]
 
 - [[Dimension729]] - a planet without kansas
 	-  [[USA]]

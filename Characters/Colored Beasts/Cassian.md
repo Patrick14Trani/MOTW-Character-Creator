@@ -11,3 +11,4 @@ He was friendly with the rest of the beasts but they just often found him annoyi
 
 ## Notes
 availible on [[Dimension728]] and [[Dimension729]]
+ [[Dimension728B]]

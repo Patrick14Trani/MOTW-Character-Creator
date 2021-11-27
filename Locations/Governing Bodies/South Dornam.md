@@ -14,4 +14,5 @@ This is the largest landmass on [[Zeneth]].
 
 ## Dimensions it can be found
 - [[Dimension728]]
+-  [[Dimension728B]]
 - [[Dimension729]]

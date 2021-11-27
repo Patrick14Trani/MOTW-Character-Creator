@@ -9,6 +9,7 @@ The hauting is from the [[Revenant Dave Vanders]] who was created by [[Victor Da
 
 ## Dimensions it can be found
 - [[Dimension728]]
+-  [[Dimension728B]]
 
 ## Missions that use this location
 - [[Haunting of Shadow Falls]]

@@ -5,6 +5,7 @@
 - [[Torna Teal]]
 ### Dimensions
 - [[Dimension728]]
+-  [[Dimension728B]]
  --- 
 
 ### About

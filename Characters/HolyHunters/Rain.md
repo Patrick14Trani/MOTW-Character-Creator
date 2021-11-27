@@ -6,7 +6,7 @@
  - Harm : 7/7
 
 ## Stats
-- Charm : 0
+- Charm : 1
 - Cool : 1
 - Sharp : 2
 - Tough : -1
@@ -18,11 +18,12 @@ Blessed knife (2-harm hand holy)
 Magnum (3-harm close reload loud)
 
 ### Moves
-- I've Read about this sort of thing
-- Often Right
+- [[I’ve Read About This Sort Of Thing]]
+- [[Often Right]]
 ### Improvements
-
+-  +1 charm with a max of 2
 ### Description
 Casual cloths, Thoughtful face ,Grey eyes, Human
 ### Notes
 - Havens- Protection Spells, Infirmary, Magical Laboratory
+- Has a dragon egg

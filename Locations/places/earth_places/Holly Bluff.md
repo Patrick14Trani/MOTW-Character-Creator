@@ -8,6 +8,7 @@ It is a small Irish community in Massechusetts that mainly has access to a dock 
 
 ## Dimensions it can be found
 - [[Dimension728]]
+-  [[Dimension728B]]
 
 ## Missions that use this location
 - [[The Lucky Charms]]

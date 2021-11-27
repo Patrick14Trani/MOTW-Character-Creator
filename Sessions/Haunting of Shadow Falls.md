@@ -26,6 +26,8 @@ He recruited expert ghost hunter [[Shelly Vanders]] to get together a team. All 
 	- smudge stick / match
 	- glowstick
 
+In the van, there are sound sensors and motion detectors as well. Also some crucifixes. 
+
 ## Schedule
 This mission doesn't really have a schedule. Instead this section will go over clues and such for the area. There will also be a sort of timer based on how long they are in there. The ghost will begin to prey on their fear if it displays. If 4 ghost events get triggered, the ghost will do a short hunt.
 
@@ -33,10 +35,12 @@ Once the players discover the ghost type, they can report this to Shelly or do t
 
 Depending on what Shelly has found, she may not want to kill the ghost of her father. She will have to be convinced to help fight. 
 
+The mission can start at [[Blitz Co]] where the squad all meets up and gets the quick downlow on the mission or it can start in the car with [[Shelly Vanders]].
+
 #### Clues in each location / Ghost Events in each location
 GH: At any point inside the sanitarium if the players say the name Bill Stringer. The ghost will appear behind the person and breathe on their neck. 
 
-**The Bar**: Inside are members of [[UCMG]]. They will come over when Shelly goes to the rest room and request that you recover some things for them. One would be a tech weapon that is unstable and then also files on *Vince Davids* (Victor Dandins Real name)
+**The Bar**: Inside are members of [[UCMG]]. They will come over when Shelly goes to the rest room and request that you recover some things for them. One would be a tech weapon that is unstable and then also files on *Bill Stringer* (Victor Dandins Real name)
 
 **Entrance/Lobby**: There are computers in the entrance. The power is off but the computers still have hardrives intact. From these hard drives some security footage can be accessed of several areas on the day of the break out. 
 - Lobby: People screaming and running, guests getting trampled, guards attempting to fight inmates.
@@ -81,13 +85,30 @@ The rooms will have all have certain random things in them.. but 3 rooms have op
 
 The camera reveals their gruesome deaths by the ghost.
 
-**Library**: A very generic library. Many books are missing. Observant or curious players can find checkout records. They'll be able to see a multitude of dark arts books being approved and checked out by (Victor Dandin's real name). A key (to the archives) can be found here as well.
+**Library**: A very generic library. Many books are missing. Observant or curious players can find checkout records. They'll be able to see a multitude of dark arts books being approved and checked out by Bill Stringer(Victor Dandin's real name). A key (to the archives) can be found here as well.
 
 Finding the key to archives will result in the ghost appearing and pointing out the door. 
 
 **The Archives**: A locked door down an eerie flight of stairs. The door is steel. If unlocked the room will be quite large. Shelly will immediatly want to search for her fathers files. The player may have been requested to find files on another person.
 
 Opening her father's file will result in a ghost event. The ghost will teleport there and reveal itself crying for a few seconds.
+
+**Visting Room**: Nothing much to see here. The scuffle of a rat might freak a player out. Otherwise it is notably empty. Just chairs, the glass walls, and phones to talk to people on the other side.
+
+GH: Talking into a phone fo rthe first time will result in a ghost scream.
+
+**Rec Room**: In the Rec room are several billiards tables, a ping pong table, normal tables for board games. On one of the tables it looks like people were playing a roleplaying game. There is also a chess board set up ready to be played.  Sadly.. a dead body will be at the seat there on the black side of the chess board. A journal is in the hands of the dead person... are several words crossed out.
+Demon, Banshee, Spirit are crossed out
+Yuri, Wraith, Revenant, and poltergiest  all have question marks
+A ouiji board can also be found on the game shelf.
+
+GH: Playing a game will result in the ghost playing with the player. They are more than welcome to continue to the game. (Best of 5 sharp check? or other skill). Beating the ghost will count as 2 ghost events due to it being angry now.
+
+**Medical Entrance**: Has several tanks of old gasoline. Otherwise quite empty and uneventful. 
+
+**Observation Deck**: A journal can be found with notes on observations of Bill Springer and his group. They are snooping about and beginning to look suspicious.
+
+**Generator Room**: An empty generator need some fuel to power up again. Power can be turned on to rooms. Powering on more than 5 rooms will blow out the generator and some time will be needed to attempt to repair it. Noel has the tools in her van. 
 ## Locations
 - [[Shadow Falls]]
 	- The local pub : Here [[Agent Hoffman]] from the [[UCMG]] will be waiting for the players. They will give them a side objective to find files on the name 'Bill Stringer'. Otherwise it will be locals complaining about a recent group of teens who just dissapeared in the sanitarium. 
@@ -101,4 +122,9 @@ Opening her father's file will result in a ghost event. The ghost will teleport 
 	- Room Block B
 	- Library
 	- Archives
+	- Visiting
+	- Rec Room
+	- Medical Entrance
+	- Observation Deck
+	- Generator Room
 	

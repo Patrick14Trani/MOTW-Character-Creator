@@ -10,4 +10,4 @@ When they had power she was often at odds with [[Ramu]]. They would battle and i
 ## Abilities
 
 ## Notes
-availible on [[Dimension728]] and [[Dimension729]]
+availible on [[Dimension728]] and [[Dimension729]] and  [[Dimension728B]]

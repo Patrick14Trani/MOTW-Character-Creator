@@ -12,6 +12,7 @@ The place serves as a breeding ground for zombie mutations and often [[The Pure]
 
 ## Dimensions it can be found
 - [[Dimension728]]
+-  [[Dimension728B]]
 - [[Dimension729]]
 
 ## Missions that use this location

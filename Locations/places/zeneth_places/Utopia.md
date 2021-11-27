@@ -11,4 +11,5 @@ The city is policed by [[The Pure]] and runs seeminly strict rules such as a cur
 
 ## Dimensions it can be found
 - [[Dimension728]]
+-  [[Dimension728B]]
 - [[Dimension729]]

@@ -15,4 +15,5 @@ A state in [[USA]]. Borders 8 other states including [[Kansas]].
 
 ## Dimensions it can be found in
 - [[Dimension728]]
+-  [[Dimension728B]]
 - [[Dimension729]]

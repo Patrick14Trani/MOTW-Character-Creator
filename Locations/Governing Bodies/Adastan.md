@@ -12,4 +12,5 @@ The smallest country on [[Hearth]].
 
 ## Dimensions it can be found
 - [[Dimension728]]
+-  [[Dimension728B]]
 - [[Dimension729]]

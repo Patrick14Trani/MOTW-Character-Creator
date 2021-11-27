@@ -2,7 +2,7 @@
 ## About
 The Land of the dragon born.. the land of the elder scrolls
 ## Dimensions and their locations
-[[Dimension728]]: 
+[[Dimension728]] and  [[Dimension728B]]: 
 - [[Tamriel]]
 	- [[Morrowind]]
 	- [[Skyrim]]
@@ -18,7 +18,16 @@ The Land of the dragon born.. the land of the elder scrolls
 	- [[Hammerfell]]
 	- [[High Rock]]
 	- [[Cyrodiil]]
-	- [[Black Marsh]]
+		- [[Anvil]]
+		- [[Bravil]]
+		- [[Bruma]]
+		- [[Cheydinhal]]
+		- [[Chorrol]]
+		- [[Imperial City]]
+		- [[Kvatch]]
+		- [[Leyawiin]]
+		- [[Skingrad]]
+	-  [[Black Marsh]]
 	- [[Summerset Isles]]
 	- [[Valenwood]]
 	- [[Elsweyr]]

@@ -9,4 +9,5 @@ Big city on the west side of [[Missouri]] and east side of [[Kansas]]. A city in
 
 ## Dimensions it can be found
 - [[Dimension728]]
+-  [[Dimension728B]]
 

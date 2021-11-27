@@ -6,10 +6,12 @@
       {
         "id": "70c2abe091b1e6bf",
         "type": "leaf",
-        "dimension": 99.99999999999999,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Characters/Extras/728chars/Shelly Vanders.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -66,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Characters/Extras/728chars/Shelly Vanders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,24 +96,24 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 275,
     "collapsed": true
   },
   "active": "70c2abe091b1e6bf",
   "lastOpenFiles": [
-    "Items/Energy Shield.md",
-    "Items/Laser Gun.md",
-    "Locations/Planets/Dosaic.md",
-    "Locations/Planets/Sanghelios.md",
-    "Locations/Planets/Zeneth.md",
-    "Locations/Planets/Nirn.md",
-    "Locations/Planets/Hearth.md",
-    "Monsters/types/Sangheili.md",
-    "Monsters/types/Jiralhanae.md",
-    "Organizations/Swords of Sangheilios.md"
+    "Characters/Extras/728chars/Shelly Vanders.md",
+    "Characters/Extras/728chars/Victor Dandin.md",
+    "README.md",
+    "Dimensions/Sovengarde.md",
+    "Dimensions/Heaven.md",
+    "Idea Dump.md",
+    "Sessions/Date Night Vampire.md",
+    "Monsters/themonster/Michelin Man.md",
+    "Monsters/themonster/Dogbreath.md",
+    "Locations/Governing Bodies/Isla Nublar.md"
   ]
 }

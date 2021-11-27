@@ -13,4 +13,4 @@ Aside from shaing meals with [[Lucas]]. Ramu often found the younger beast follo
 ## Abilities
 
 ## Notes
-availible on [[Dimension728]] and [[Dimension729]]
+availible on [[Dimension728]] and [[Dimension729]] and  [[Dimension728B]]

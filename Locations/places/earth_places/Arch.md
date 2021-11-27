@@ -8,4 +8,5 @@ The big architectural feat in [[St. Louis]] city.
 
 ## Dimensions it can be found
 - [[Dimension728]]
+- [[Dimension728B]]
 - [[Dimension729]]

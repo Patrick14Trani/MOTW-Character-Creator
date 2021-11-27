@@ -10,6 +10,7 @@ Survivors that make it to the crossing have to deal with bandits and nasty indiv
 
 ## Dimensions it can be found
 - [[Dimension728]]
+-  [[Dimension728B]]
 - [[Dimension729]]
 
 ## Missions that use this location

@@ -10,6 +10,7 @@ The pure use this as a scientific base to study the virus and send off scavenged
 
 ## Dimensions it can be found
 - [[Dimension728]]
+-  [[Dimension728B]]
 - [[Dimension729]]
 
 ## Missions that use this location

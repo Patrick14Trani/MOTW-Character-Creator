@@ -12,4 +12,5 @@ Currently a few hardened individuals have created a way to live in these lands. 
 
 ## Dimensions it can be found
 - [[Dimension728]]
+-  [[Dimension728B]]
 - [[Dimension729]]

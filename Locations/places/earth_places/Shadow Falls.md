@@ -7,7 +7,8 @@ A small town in rural [[Kansas]]. Known for its haunted sanitarium called [[Shad
 The town is quite small and the residents there are a varying range of religion but everyone there is very supersticious.
 
 ## Other Notes
-On the planet [[Hearth]].
+On the planet [[Earth]].
 
 ## Dimensions it can be found
 - [[Dimension728]]
+-  [[Dimension728B]]

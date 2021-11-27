@@ -10,4 +10,4 @@ oops thats above
 ## Abilities
 
 ## Notes
-availible on [[Dimension728]] and [[Dimension729]] and [[Dimension666]]
+availible on [[Dimension728]] and [[Dimension729]] and [[Dimension666]] and  [[Dimension728B]]

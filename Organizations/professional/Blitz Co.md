@@ -6,7 +6,8 @@
 -[[Pat]]
 
 ### Dimensions
-- [[Dimension728]]
+- [[Dimension728]] : Friends with [[The Squad]]
+- [[Dimension728B]]: Enemies with [[HolyHunters]]
  --- 
 
 ### About

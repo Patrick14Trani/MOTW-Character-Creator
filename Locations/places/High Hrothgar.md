@@ -10,6 +10,7 @@ It can be found on the planet [[Nirn]] on the high mountains in [[Skyrim]].
 
 ## Dimensions it can be found
 - [[Dimension728]]
+-  [[Dimension728B]]
 
 ## Missions that use this location
 - [[We're not in Kansas Anymore]]

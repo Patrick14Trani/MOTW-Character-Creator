@@ -10,19 +10,22 @@
 - Cool : -1
 - Sharp : 2
 - Tough : 0
-- Weird : 2
+- Weird : 2 (+1)
  
 ### Gear
 Shotgun (3-harm close messy)
 Big knife (1-harm hand)
 
 ### Moves
-- Hex
-- Premonitions
-- Telepathy
--
+- [[Hex]]
+- [[Premonitions]]
+- [[Telepathy]]
+- [[Jinx]]
+- [[The Sight]]
 ### Improvements
-
+- Take another move
+-  Take another move
+- +1 to weird max 
 ### Description
 
 ### Notes

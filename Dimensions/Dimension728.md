@@ -7,7 +7,7 @@ Dimesion 728 is the world as we all know it. The history, cultures, and tech are
 They've adapted and become amazing at hiding among the common rabble. Some have even become aware and achieved the brain power and problem solving of the very humans they sought out to destroy. Even monster hunters have become corrupted and may even fight alongside monsters.
 
 ## Hunter Groups
-- [[HolyHunters]]
+- [[The Squad]]
 - [[Tras]]
 - [[BandOfMisfits]]
 

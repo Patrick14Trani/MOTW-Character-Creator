@@ -58,4 +58,8 @@ The revenant went about killing all it could within the building. Mainly guards 
 
 Under a new alias, he and his new buddies created [[Blitz Co]]. An undercover monster hunting organization that is fronted by a sports supply store. With his knew found power and substantial income, he met with monster hunters back in England to find the gargoyle that killed his family. After months of searching, creating friends, killing monsters, and tracking his prey - he cornered the gargoyle in a castle. After a short battle he was victorious and the head of the gargoyle serves as a dart board in his office.
 
-Found in [[Dimension728]] on the planet [[Earth]].
+Found in [[Dimension728]] on the planet [[Earth]]. In this dimension Victor has been blackmailed and somewhat made friends with [[The Squad]].
+
+In an alternate timeline [[Dimension728B]] he has made enemies with the  [[HolyHunters]].
+
+

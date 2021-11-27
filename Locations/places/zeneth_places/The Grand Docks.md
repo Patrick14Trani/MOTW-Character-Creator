@@ -10,4 +10,5 @@ The only set of docks left on [[Kyrde]] in which large enough ships can be store
 
 ## Dimensions it can be found
 - [[Dimension728]]
+-  [[Dimension728B]]
 - [[Dimension729]]

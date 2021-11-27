@@ -3,7 +3,7 @@
 ---
  - Luck: 0/7
  - Experience: 0/5
- - Harm : 7/7
+ - Harm : 4/7
 
 ## Stats
 - Charm : 0
@@ -38,6 +38,11 @@ Blood Vision:
 	
 
 ### Notes
+Relationship:
+[[Dragonov Deez Noughts]]: Saw her in porno and a loyal OF subscriber.
+[[Dickson Ticonderoga]] : She is the drug dealer for him
+[[Marle Chan]]: a passing aquitance.
+
 Shelly grew up in small family. She was an only child and lived with her parents. One day, her father and her witnessed the death of her mother. She was murdered by a strange man covered in symbols and who wielded a rather strange dagger. The man was conducting a ritual as he was shot by Shelly's father. Shelly was intrigued by the blade that killed her mother. 
 
 She began research on the symbols and blade and fell down the rabit hole of dark arts, mystic practices, and devil rituals. Soon after her father began to awake screaming in the night declaring that his dead wife was haunting him.
@@ -50,3 +55,5 @@ And with that she went to tell her father he was right however, that's when the 
 
 
 Found in [[Dimension728]] on the planet [[Earth]].
+
+In [[Dimension728B]] Shelly is set on killing [[Victor Dandin]]. She has made friends with the [[HolyHunters]] and will reach out to them once she has recovered.

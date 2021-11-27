@@ -8,5 +8,6 @@ The main geographical feature in [[Irustan]] is the scarlet mountains. The rock 
 
 ## Dimensions it can be found
 - [[Dimension728]]
+-  [[Dimension728B]]
 - [[Dimension729]]
 - [[Dimension666]]

@@ -10,11 +10,19 @@ The idea of this session is to display a bunch of different places in the world 
 ## The Hook
 The Heroes have heard rumor that a local petshop has received an anonymous package and that the creature is something the shopkeep has never seen before. [[UCMG]] were sent onto the scene immediatly to control spread of word but nothing bas been hear of them. They sent out a word for local monster hunters to help.
 
+or
+
+The players receive a mysterious call from a nearby telling them to come to the [[Pet Stop]] in Kansas City. The call will somewhat obviously be from [[Rick Sanchez]] and [[Morty]].
+
+> Heeyyy finally someone answered. Look you should come on down to [[Pet Stop]] monster hunter. Oh and bring some friends! Got a bit of a problem I could use your expertise on. 
+> Riick? Why are you doing that kiss ass thing?
+> Idk, these hero types tend to have a praise kink right? Anyway! Ya.. you should come on over! This is like... nearly an avengers level threat.
+
 ## The Mission Playout
 ### Intro
 The Players will arrive at [[Pet Stop]] to find the smoldering corpses of two [[UCMG]] agents as well as [[Rick Sanchez]] sitting behind the counter! Also an uncomfortable amount of animal corpses lying on the ground, however at all their paws lay futuristic looking blasters. On the counter specifically is what appears to be a dead parrot. 
 
-> "Took you all long enough! These tools didn't listen to me and now look at them. I don't really have time for this whole quest so I'm going to dumb it on to all of you ..."
+> "Took you all long enough! These tools didn't listen to me and now look at them. I don't really have time for this whole quest so I'm going to dump it on to all of you ..."
 
 Rick will give the downlow on [[SneepSnarps]] and how they are hell bent on dimensional domination. One of them got away through a dimensional portal and Rick wants you all to chase it down and prevent it from getting away. 
 
@@ -29,7 +37,9 @@ Note: The players may not trust Rick. This will be the que for [[Morty]] to ente
 > "Rick doesn't waste his time on anything that couldn't be detrimental to the galaxy."
 
 ### [[Dimension729]] on [[Earth]]
-The players teleport to a [[Pet Stop]] just like the one they were just in, only minus the corpses and plus on evil animals. They will immediatly find themselves under laser fire from a squad of lizards. Behind the register, emptying out money, is a dog. The dog is standing on his back two legs and is wearing mechanical gloves that give it normal hangs allowing it to interact with stuff. It sees you all and teleports away. 
+The players teleport to a [[Pet Stop]] just like the one they were just in, only minus the corpses and plus  evil animals. They will immediatly find themselves under laser fire from a squad of lizards. Behind the register, emptying out money, is a dog. The dog is standing on his back two legs and is wearing mechanical gloves that give it normal hangs allowing it to interact with stuff. It sees you all and teleports away. 
+
+> The amount of lizards and enemies can vary based on how many people you have playing and how strong they are.
 
 After the combat.. banging can be heard from the storage closet. The shop keep is bound and gagged in there. He is in absolute shock and rants about how he just want's to go the [[Missouri City]] Natives game.
 
@@ -54,11 +64,17 @@ The players will descend the mountain to see a man running for his life from a [
 Killing the Troll will give you the ability to talk with the stranger. Then you'll all probably make your way to the Temple.
 
 **In the Temple**: 
-The [[SneepSnarps]] are hiding in the building. It is currently hiding in the backyard taking a breath. The players will catch it off guard giving them a chance to act on it and start a fight if they wish. Once it feels it is losing, it will teleport away.
+The [[SneepSnarps]] is currently hiding in the backyard taking a breath. The players will catch it off guard giving them a chance to act on it and start a fight if they wish. Once it feels it is losing, it will teleport away.
+
+As for other stuff in the temple. Several of the Greybeards are milling about doing their thing. Once the dragon born enters they'll rave about him for a bit but they wont start their work with him until they have helped you.
+
+In the living quaters there is a spell book
 
 Availible loot / clues:
 - Dragon Born blood will give someone the ability to learn the thuum.
 - [[Flame Atronach Spellbook]]
+
+[Map](https://en.uesp.net/wiki/File:SR-map-High_Hrothgar.jpg) for [[High Hrothgar]] 
 
 ### [[Dimension666]] in [[Demonia]]
 The players will find themselves in a warehouse. They won't know it but this warehouse is under the control of the [[DBI]]. The players will see several figures in suits talking with the possibly wounded target. 
@@ -86,8 +102,7 @@ If it by chance creates and gets to the portal.. the players will be teleported 
 ### [[Dimension117]] on [[Etran Harborage]]
 Assuming the creature has been heavily wounded, it will be bleeding out in the middle of this canyon. They're are small hills all around. The view from where they enter gives them sight on two bases, one on each side of the canyon. Movement can definetly be seen. 
 
-The [[SneepSnarps]] will attempt to beg for its life...
-
+The [[SneepSnarps]] will attempt to beg for its life.
 
 ### Outro
 Once the creature is killed [[Rick Sanchez]] will appear to congragulate you and he will take up the body.

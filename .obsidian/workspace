@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Characters/Extras/728chars/Shelly Vanders.md",
+            "file": "Sessions/We're not in Kansas Anymore.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277
+    "width": 247
   },
   "right": {
     "id": "64f75b36da458a5e",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Extras/728chars/Shelly Vanders.md",
+                "file": "Sessions/We're not in Kansas Anymore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "70c2abe091b1e6bf",
   "lastOpenFiles": [
-    "Characters/Extras/728chars/Shelly Vanders.md",
-    "Characters/Extras/728chars/Victor Dandin.md",
-    "README.md",
-    "Dimensions/Sovengarde.md",
-    "Dimensions/Heaven.md",
-    "Idea Dump.md",
+    "Sessions/We're not in Kansas Anymore.md",
     "Sessions/Date Night Vampire.md",
-    "Monsters/themonster/Michelin Man.md",
-    "Monsters/themonster/Dogbreath.md",
-    "Locations/Governing Bodies/Isla Nublar.md"
+    "Characters/Extras/729chars/Heart.md",
+    "Monsters/types/Vampire.md",
+    "Characters/Default.md",
+    "Characters/Extras/729chars/Orange Justice.md",
+    "Characters/Extras/729chars/Jessica Jones.md",
+    "Locations/places/earth_places/Skaters.md",
+    "Sessions/The Coldest Christmas.md",
+    "ToDo.md"
   ]
 }

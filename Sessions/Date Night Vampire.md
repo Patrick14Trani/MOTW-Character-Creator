@@ -1,6 +1,6 @@
 # Date Night Vampire
 ## Brainstorming
-Is this Ready to play: **Kind Of**
+Is this Ready to play: **Yes**
 
 This Mission can be played in any city and use any slew of characters. 
 
@@ -48,7 +48,7 @@ The players after learning about the date nights will hopefully do some research
 
 **Tim Higgins**: The Douche Chad... very toxic male typa guy. Will only approach female characters.
 *Talks like a total Chad*
-> 'Insert douch pickup line here.'
+> 'I may not be a weatherman but you’re gonna get more than a few inches tonight'
 
 **Maddy Son**: The dumb hot blonde. Get's really annoyed when people call her Madison. Should attempt to heavily seduce one of the players. Only goes after the men. She has a little pocket mirror.
 *Dumb Blonde voice, valley girl*

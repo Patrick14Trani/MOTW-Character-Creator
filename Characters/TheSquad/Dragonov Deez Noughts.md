@@ -30,3 +30,5 @@ Notes: All friends and family killed by the [[Michelin Man]]
 saved [[Marle Chan]] from ulfer the blind
 [[Dickson Ticonderoga]] lost his apprentice to a poor service job from the [[Michelin Man]]
 saw [[Shelly Vanders]] in a porno and avidly subscribes to her OF.
+
+Has a dog named Dragoon.

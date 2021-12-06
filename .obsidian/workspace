@@ -12,14 +12,15 @@
             "file": "Sessions/The Coldest Christmas.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "d6610ef63826b7b3"
       },
       {
-        "id": "c3ddd6cefbcfbaa9",
+        "id": "bf61e56e771c59e0",
         "type": "split",
         "children": [
           {
-            "id": "3b3cc9153ae6464f",
+            "id": "08719ee818e659d1",
             "type": "leaf",
             "state": {
               "type": "localgraph",
@@ -47,14 +48,15 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.1846232622585813,
+                  "scale": 0.3628873693012121,
                   "close": false
                 }
               }
-            }
+            },
+            "group": "d6610ef63826b7b3"
           },
           {
-            "id": "90e731a026ac9be4",
+            "id": "3d96b15ac1abf2d6",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -156,14 +158,14 @@
   "active": "70c2abe091b1e6bf",
   "lastOpenFiles": [
     "Sessions/The Coldest Christmas.md",
-    "Monsters/types/Omen Owl.md",
+    "Organizations/professional/Fisher Price.md",
+    "Organizations/professional/The Pure.md",
+    "Locations/places/Santa's Workshop.md",
+    "Organizations/Utopian Court.md",
+    "Locations/places/Pearly Gates.md",
+    "Characters/Extras/728chars/Mary Weihnachten.md",
     "Sessions/The Dairy Queen.md",
-    "Sessions/Date Night Vampire.md",
-    "Sessions/Costume Party.md",
-    "Sessions/Festival of Hearts.md",
-    "Sessions/Haunting of Shadow Falls.md",
-    "Sessions/We're not in Kansas Anymore.md",
-    "Idea Dump.md",
-    "ToDo.md"
+    "Monsters/themonster/Santa Claus.md",
+    "Characters/Default.md"
   ]
 }

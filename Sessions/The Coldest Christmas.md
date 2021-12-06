@@ -36,10 +36,10 @@ The first is [[Mary Weihnachten]] and she is followed by [[Agent Power Wheels]].
 Then the agents will come back after a bit and the playes will follow them out into the giant room. The cloaked individuals will be all be circled around the circle of runes. One will be standing waiting to greet the team and motion for them to enter the circle. Two lab coat individuals will begin to sprinkle dust around the edges while another two wheel the figure on the crucifx over. The lead man will draw a sacraficial dagger. With the go ahead the ritual will commence. If the players have any last statements or questions they can do so!
 
 Big Magic Portal: You will go ahead and roll for the ritual casters:
-- On a 12+: 
-- On a 10+:
-- On a 7-9:
-- On a Fail:
+- On a 12+:  They appear at the exit from the tunnels into the Workshop grounds
+- On a 10+: They appear in a room near the exit
+- On a 7-9: They appear in the torture chamber
+- On a Fail: They appear on an ice slide down towards the waste disposal
 
 ### Where are we?
 The players will portal into an icy cave (It will be part of a cave network under [[Santa's Workshop]]).

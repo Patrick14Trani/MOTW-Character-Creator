@@ -41,8 +41,40 @@ Big Magic Portal: You will go ahead and roll for the ritual casters:
 - On a 7-9: They appear in the torture chamber
 - On a Fail: They appear on an ice slide down towards the waste disposal
 
-### Where are we?
-The players will portal into an icy cave (It will be part of a cave network under [[Santa's Workshop]]).
+### The Ice Caves
+The players will portal into an icy cave (It will be part of a cave network under [[Santa's Workshop]]). Depending on the roll beforehand, will decide where they end up. Their goal will be to find a way to the surface. 
+
+The actual tunnels themselves are quite large in some parts. A main tunnel which is large enough for a large truck to drive through. In fact their are like spiked treads, scratching in the tunnel which seem to run the length of the tunnel.
+
+Depending on where they teleport to the Agents will reveal to the players where they are, and their purpose.
+> Alright... we should be in domain of the enemy. Your guy's objective to make sure we reach the target and take them out. We cannot reveal that information yet but they are known as the enemy of Christmas.
+
+#### Waste Disposal
+The waste disposal area seems to be the end of a large tunnel. It very steeply drops off into a very dark, seemingly bottomless pit. 
+
+If the players teleport here, they should teleport onto the steep icy slide down into the abyss. It will be up to them to figure out how to save themselves.
+Hint: Bladed Weapons/ Magic can be good ways to stop themselves from falling and then some tough checks to climb up.
+
+At the very top of the slide are ice climbing tools in a "Break in Case of Emergency" Box as well as a harness/ rope for climbing down the side. Next to the emergency box is also a phone that has specific buttons for dialing specific rooms as well as the classic 9 digit set. 
+
+#### Torture Chamber
+A room with an assortment of torture tools and a lot of dried, presumably blood, on the floor. However the blood has a green shade to it. On the torture table currently is a small dog. It looks beaten and broken. A truly horrid site. A high tech device can be seen attached to its throat and surely enough it awakes and can speak.
+
+The players don't know it but this dog is [[The Grinch]]'s dog (It is a [[SneepSnarps]]). It will beg to be freed and have them help it escape. The agents will highly recommend that we just keep moving or the creature be put down. Mary will more so be disturbed and confused. She'll focus on the room itself.
+
+If this is the room they teleport to, then the Agents Can reveal a bit about their purpose and target.
+
+What is hidden here: Hidden here is a hatch above, however there is seemingly no way to climb up to it/ open it. It is protected by magic. If the players find a way to open it then they will find themselves in a sleeping barracks of [[Worker Elves]].
+
+#### Beast Chambers
+The beast chambers are a collection of snow related creatures from all sorts of dimensions. Each is kept in its own pen with several others. It's basically a giant snow themed zoo. There isn't much to find here but all over the place are phones and maps of the zoo area. It can be found that there is actually an exit on one side and they happened to enter through a service tunnel of sorts.
+
+#### Warhead Storage
+This room is a hidden room in an outlet in the middle of the tunnel. It can be found with a good investigation question, a code, a keycard, and finally a retinal scan.
+
+Inside is a large storage room housing all sorts of explosives and most importantly a nuclear warhead. This room has direct access to the fortress above as well as a large door that presuably allows things to be flown in.
+
+### [[Santa's Workshop]]
 
 ## The Monster
 [[Santa Claus]]

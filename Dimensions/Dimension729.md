@@ -29,5 +29,7 @@ Pretty much the same as dimension 728 only there is no kansas.
 - [[Crafty Cane]]
 - [[Lucky Charms]]
 - [[Ghosthunter43]]
+- [[Laser Gun]]
+- [[Machine Laser Gun]]
 ## Notes
 - There is NO KANSAS

@@ -19,6 +19,7 @@ They've adapted and become amazing at hiding among the common rabble. Some have 
 - [[Sinister Sisters]]
 - [[The Fifth Leaf]]
 - [[Galendor's Hand]]
+- [[Fisher Price]]
 
 ## Availible Sessions
 - [[The Lucky Charms]]
@@ -34,10 +35,16 @@ They've adapted and become amazing at hiding among the common rabble. Some have 
 - [[Hearth]]
 - [[Nirn]]
 - [[Etran Harborage]]
+- [[Zeneth]]
 ## Items
 - [[Crafty Cane]]
 - [[The Sacred Heart]]
 - [[Lucky Charms]]
 - [[Ghosthunter43]]
+- [[KFC Bucket of Holding]]
+- [[Wabbajak]]
+- [[Gravity Hammer]]
+- [[Laser Gun]]
+- [[Machine Laser Gun]]
 ## Notes
 - Pheonix are extinct

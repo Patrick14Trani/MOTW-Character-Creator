@@ -27,6 +27,6 @@ Now he serves the side of good.
 
 ### Notes
 - He was saved by the [[HolyHunters]] with [[The Sacred Heart]]. He now trains with them at their hideout.
-- Natalie taught him how the internet work, he has some net friends
-- Nove prayed intensly with him for several months and he became very intune with religious magic. He now has angel wings ability
+- [[Natalie]] taught him how the internet work, he has some net friends
+- [[Nova]] prayed intensly with him for several months and he became very intune with religious magic. He now has angel wings ability
   

@@ -15,7 +15,7 @@ Dimension 666 is a very opposite take on the universe. Monsters roam the Earth a
 
 ## Notable Locations
 - [[Earth]]
-- [[]]
+- [[Hearth]]
 ## Items
 
 ## Notes

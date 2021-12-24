@@ -26,7 +26,10 @@ Big knife (1-harm hand)
 - Take another move
 -  Take another move
 - +1 to weird max 
+- Mystical Library
 ### Description
 
 ### Notes
-  
+  - Made friends with [[Natalie]] on the internet and then met [[Nova]] and [[Rain]] when joining the [[HolyHunters]].
+
+Her parents abandoned her.

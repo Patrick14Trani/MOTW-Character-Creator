@@ -18,15 +18,19 @@ A gang of [[Leprechuans]] known as the [[The Fifth Leaf]]. They are pushing magi
 
 They lurk about during the day in stacks of three covered by a trench coat.
 
+[[Torna Teal]] - 7 harm
+The Normal Guys - 4 harm
+
+
 ## Characters
-- **Liam**: The nephew who has gone missing. In his mid-twenties. Currently being held captive in a storage room at the docks.
+- **Liam O'Schnekel**: The nephew who has gone missing. In his late teens. Currently being held captive in a storage room at the docks.
 - **Sean**: An adventure youtuber looking to explore the docks at night where spookiness has been happening. He doesn't really believe anything suspicious is up, he thinks they just left town without telling anyone because the community is to tight nit and supposedly loyal.
 - **Shiela**: The love interest of  Liam. Very upset he has dissapearred. She is a bar maid and the pub in town.
 	- She can note that there have been new folk in town and they are a distasteful type. They are alwasy struting about in green trench coats. They are very rude to her in the pub. They always tip in **gold coins**.
 - **Mayor Dylan**: The mayor of Holly Bluff. Currently very dead with a symbol of the Fifth leaf on his forehead. 
 - **Sheriff Lawson**: A very scared sheriff. His family has been captured and he has been told to stay put in his office until told otherwise. 
 
-- **Sheamus**: Your friend who's nephew went missing. Works at the Plentiful Pint as a cook.
+- **Sheamus O'Schnekel**: Your friend who's nephew went missing. Works at the Plentiful Pint as a cook.
 
 - [[Demowrath]] : Here to make a drug deal with the [[The Fifth Leaf]].
 ## Schedule
@@ -70,3 +74,15 @@ When engaging a sus looking individual. They will ask why you are bothering them
 *Also note that each sus individual is 3 leprechauns stacked on one another and covered in a bright green trenchcoat.*
 
 If you do successfully charm or magically bind them you'll have a better chance at getting to them. Giving them coins will momentarily drop all their guards and you can ask them whatever. If another leprechaun witnesses them giving away information, it will kill them. 
+
+
+## quick notes to add for [[Dimension728B]]
+- Principal Heisen for the school.
+- Bucky the Leprechaun has kind of joined the [[HolyHunters]]
+
+The Docks Specifically 
+- Storage 1: Things to be found on good investigation
+	- The family is locked away in one of the containers here. Currently being prepped to ship out.
+	- Normal storage stuff, crowbarsm etc. 
+- Storage 2: 
+	- Liam is locked away in here.

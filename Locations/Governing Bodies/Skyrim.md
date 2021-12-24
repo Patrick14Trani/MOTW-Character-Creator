@@ -2,7 +2,7 @@
 ## Home of the Nords
 
 ## About
-A country found on [[Nirn]] that is currently undergoing a civil war between the [[Imperial Legion]] and the [[Stormcloaks]].  Not to mention the dragon problem that just showed up.
+A country found on [[Nirn]] that is currently undergoing a civil war between the [[Imperial Legion]] and the [[Stormcloaks]].  Not to mention the dragon problem that just showed up. Also thre presence of the [[Thalmor]].
 
 ## Other Notes
 - [[Morrowind]]

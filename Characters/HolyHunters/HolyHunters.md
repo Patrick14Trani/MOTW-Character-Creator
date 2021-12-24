@@ -9,4 +9,6 @@ Currently a beginner group based in the church basement of sacred heart. They  c
 	- Notes: They met UCMG
 - [[Haunting of Shadow Falls]]
 	- Notes: Helped the [[UCMG]] and made enemies with [[Blitz Co]].
+- [[The Lucky Charms]]
+	- Notes: They made contanct with [[Agent Dylan]]. Have a new companion that is [[Bucky the Leprechaun]]. They killed [[Torna Teal]] and finally met [[Demowrath]]. They saved the sheriffs family and saved Liam.
 

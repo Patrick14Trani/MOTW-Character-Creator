@@ -3,7 +3,7 @@
 ## Sessions
 -  [ ] hunting for Bigfoot
 -  [ ] Taking down mutant zombie on zeneth
-	- zombie could be: 
+	- zombie could be: A 
 -  [x] Date Night Demon:
 	- A ghoul has been attending speed date nights and getting its victims that way. 
 - [ ] A Cold Vengence
@@ -14,6 +14,7 @@
 	- The players will have about 10 turns of cobat before they should pull their chutes
 	- during the combat some chutes might be damaged or destroyed... players can fall a couple of turns farther but may suffer injury when landing. 
 	- It could be a military level in 117 or a secret agent level, oorrr a treasure hunting level in the middle of the jungle.
+- [ ] A long couple of sessions where the players are apart of the companions and they do tasks and uncover a mystery in Skyrim   
 ## Dimensions / Locations
 - [ ] Shrine of Our Lady of Sorrows.
 - [ ] A base for The Squad

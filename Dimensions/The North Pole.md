@@ -10,7 +10,8 @@ This is the land of Santa Claus. He reigns over all here and uses this place bey
 ## Availible Sessions
 - [[The Coldest Christmas]]
 ## Notable Locations
-
+[[Santa's Workshop]]
+[[Grinch's Bunker]]
 ## Items
 
 ## Notes

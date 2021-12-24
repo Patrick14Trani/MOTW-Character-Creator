@@ -27,3 +27,7 @@ Casual cloths, Thoughtful face ,Grey eyes, Human
 ### Notes
 - Havens- Protection Spells, Infirmary, Magical Laboratory
 - Has a dragon egg
+
+Has become friends with [[Natalie]], [[Nova]], and [[Maxine]].
+
+His father died to a [[Dragon]] and he stole that dragons egg to teach it a lesson.

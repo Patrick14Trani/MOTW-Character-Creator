@@ -3,7 +3,7 @@
 
 Monster type: [[Leprechuans]]
 Campaign: [[The Lucky Charms]]
-Beaten By: 
+Beaten By: [[HolyHunters]]
 Dimension: [[Dimension728]]
 
 #### Notes:

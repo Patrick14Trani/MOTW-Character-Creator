@@ -25,8 +25,10 @@ Was a meth head lich with a hunger for revenge. His old life left him dying and 
 
 Now he serves the side of good.
 
+###### Important:  Augustine is feeling up to his first mission. Let the players have the option to bring him along next time they see him.
+
 ### Notes
 - He was saved by the [[HolyHunters]] with [[The Sacred Heart]]. He now trains with them at their hideout.
 - [[Natalie]] taught him how the internet work, he has some net friends
 - [[Nova]] prayed intensly with him for several months and he became very intune with religious magic. He now has angel wings ability
-  
+- [[Maxine]] has spent time with him teaching him how to use Hex. He reluctantly learns this and vows to never use it on another human. 

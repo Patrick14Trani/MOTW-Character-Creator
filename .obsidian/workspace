@@ -49,7 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247
+    "width": 275
   },
   "right": {
     "id": "64f75b36da458a5e",
@@ -101,15 +101,15 @@
   },
   "active": "70c2abe091b1e6bf",
   "lastOpenFiles": [
-    "Characters/HolyHunters/Augustine.md",
     "Characters/HolyHunters/Rain.md",
-    "Characters/HolyHunters/Maxine.md",
-    "Characters/HolyHunters/Natalie.md",
-    "Characters/HolyHunters/Nova.md",
-    "Characters/Extras/728chars/Agent Dylan.md",
-    "Characters/Extras/728chars/Agent Hoffman.md",
-    "Locations/places/earth_places/Fisher Price HQ.md",
-    "Monsters/themonster/Torna Teal.md",
-    "Characters/HolyHunters/HolyHunters.md"
+    "Monsters/types/Dragon.md",
+    "Monsters/types/Pseudodragon.md",
+    "Monsters/types/Demon.md",
+    "Characters/Extras/728chars/Agent Power Wheels.md",
+    "Characters/Extras/728chars/Agent Imaginex.md",
+    "Locations/Planets/Zeneth.md",
+    "Characters/Extras/Chance Ledger.md",
+    "Sessions/Ready/DJ Disaster.md",
+    "Characters/Extras/728chars/Agent Hoffman.md"
   ]
 }

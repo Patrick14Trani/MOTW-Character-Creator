@@ -19,6 +19,8 @@ This guild of monster hunting is a black suite private business owned by Brick B
 
 Beaurcractic measures however, mean that getting needed support or items could take a while since a good amount of paperwork and review need to be signed off.
 
+This organization has found itself to have operating outposts in most denny's.
+
 | Resources | Recognised Authority | Weird Tech Gadgets |
 | --------- | -------------------- | ------------------ |
 | Red Tape  | Live Capture Policy  | Bureaucratic       |

@@ -5,6 +5,7 @@
 - [ ] Finish [[Mind Prison]]
 - [ ] Make a session for [[Zeneth]]
 - [ ] Session for [[Isla Nublar]]
+- [ ] Finish [[DJ Disaster]]
 ## Dimensions / Locations
 #todo/locations
 - [ ] Research The lore of [[Nirn]]

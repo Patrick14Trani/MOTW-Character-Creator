@@ -46,5 +46,18 @@ They've adapted and become amazing at hiding among the common rabble. Some have 
 - [[Gravity Hammer]]
 - [[Laser Gun]]
 - [[Machine Laser Gun]]
+
+## Timeline
+- 2021
+	- March 28th
+		- [[HolyHunters]] save [[Sacred Heart Church]] from a [[Lich]]. They make a new friend [[Augustine]].
+	- June 15th
+		- The [[HolyHunters]] kill [[The Dairy Queen]], [[Berlinda]].
+	- November 25th
+		- [[The Squad]] recieve a call from [[Shelly Vanders]] and go to the [[Shadow Falls Sanitarium]]. 
+		- [[The Squad]] succesfully blackmails [[Blitz Co]] and makes enemies with [[UCMG]].
+	- November 26th
+		- [[The Squad]] meet [[Rick Sanchez]] and begin their journey [[We're not in Kansas Anymore | in another dimension]].
+
 ## Notes
 - Pheonix are extinct

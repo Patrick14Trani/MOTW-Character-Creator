@@ -20,8 +20,10 @@ Magnum (3-harm close reload loud)
 ### Moves
 - [[I’ve Read About This Sort Of Thing]]
 - [[Often Right]]
+- [[Dark Past]]
 ### Improvements
 -  +1 charm with a max of 2
+- Another Expert Move
 ### Description
 Casual cloths, Thoughtful face ,Grey eyes, Human
 ### Notes
@@ -30,4 +32,4 @@ Casual cloths, Thoughtful face ,Grey eyes, Human
 
 Has become friends with [[Natalie]], [[Nova]], and [[Maxine]].
 
-His father died to a [[Dragon]] and he stole that dragons egg to teach it a lesson.
+His father died to a [[Dragon]] and he stole that dragons egg in vengence. The quest was quite epic.

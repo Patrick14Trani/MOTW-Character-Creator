@@ -1,7 +1,7 @@
 # Torna Teal
 ## *Leader of the [[The Fifth Leaf]]*
 
-Monster type: [[Leprechuans]]
+Monster type: [[Leprechuan]]
 Campaign: [[The Lucky Charms]]
 Beaten By: [[HolyHunters]]
 Dimension: [[Dimension728]]

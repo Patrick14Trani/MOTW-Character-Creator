@@ -1,4 +1,4 @@
-# Leprechauns 
+# Leprechaun 
   
 **About:** 
 Small Mishevious indeviduals tired of being portrayed like a cartoon buffoon who eats cereal. They have a rather tempermental nature and can come in all sorts of ways. One thing is for certain, they always have thick Irish accents.

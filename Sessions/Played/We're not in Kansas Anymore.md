@@ -125,3 +125,9 @@ Rick will create them a portal where ever they want to go. Or the players can st
 - [[Demonia]]
 - [[Etran Harborage]]
 	- [[Blood Gultch]]
+
+
+## Notes on Session with [[HolyHunters]]
+- Didn't close portal on Nirn immediatly. [[Troll]] wandered through and is in [[Dimension729]].  It will hav killed the [[SneepSnarps]] they left behind and cause some other chaos.
+
+- They ended right as the sneepsnarp escaped to the last place where it will battle them. They are currently on Nirn

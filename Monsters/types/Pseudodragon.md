@@ -1,6 +1,6 @@
 # Pseudodragon
   
-**About:** Little stealthy dragons that enjoy stealing magical stuff. They are about the size of small cat. 
+**About:** Little stealthy dragons that enjoy stealing magical stuff. They are about the size of small cat. A type of [[Dragon]].
   
 **Motivation:** To steal and horde magical things.
 

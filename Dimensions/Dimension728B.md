@@ -1,5 +1,5 @@
 # Dimension 728
-### Life as it is electric boogaloo
+### Life as it is, electric boogaloo
 ---
 ## About
 Dimesion 728B is the world as we all know it. The history, cultures, and tech are all that of which we, the players, are familiar. Other than of course... there are monsters. Monsters in this dimension are hidden from the general public. They also normally choose to conceal themselves as technology is quite advanced. However, so are the monsters.
@@ -41,5 +41,15 @@ Once two groups recieved the call from [[Shelly Vanders]] a second dimensional t
 - [[The Sacred Heart]]
 - [[Lucky Charms]]
 - [[Ghosthunter43]]
+
+## Timeline
+- 2021
+	- November 25th
+		- Timeline burst forth into existence after a phonecall was made.
+		- The [[HolyHunters]] went on a journey to [[Shadow Falls Sanitarium]] and defeated the [[Revenant Dave Vanders]].
+	- November 30th
+		- The [[HolyHunters]] participated in [[Lucky Charms]] and helped [[Maxine]]'s "uncle".
+	- December 22nd
+		- The [[HolyHunters]] participated in [[We're not in Kansas Anymore]]. They have gone on a dimensional journey.
 ## Notes
 - Pheonix are extinct

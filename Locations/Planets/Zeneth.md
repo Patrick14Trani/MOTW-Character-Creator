@@ -1,6 +1,6 @@
 # Zeneth
 ## About
-Otherwise known as planet Z, this planet is much like Earth in terms of distance from a large star and biomes. It contains three continents each of which. The inhabitants of this planet are plagued with a zombie style virus ([[Z-Virus]]) infecting everyone. 2 of the three continents are fully infected and the survivors on them do all they can to survive or attempt to escape into the third continent which isn't allowing immigration
+Otherwise known as planet Z, this planet is much like Earth in terms of distance from a large star and biomes. It contains three continents each of which. The inhabitants of this planet are plagued with a [[Zombie]] style virus ([[Z-Virus]]) infecting everyone. 2 of the three continents are fully infected and the survivors on them do all they can to survive or attempt to escape into the third continent which isn't allowing immigration
 ## Dimensions and their locations
 - [[Dimension728]] and  [[Dimension728B]] and  [[Dimension729]]
 	- [[North Dornam]]: Infected lands

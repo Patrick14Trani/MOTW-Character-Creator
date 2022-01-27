@@ -21,6 +21,7 @@ Pretty much the same as dimension 728 only there is no kansas.
 - [[The Dairy Queen]]
 - [[Mind Prison]]
 - [[Date Night Vampire]]
+- [[Troublesome Troll]]
 ## Notable Locations
 - [[Earth]]
 - [[Hearth]]

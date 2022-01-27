@@ -5,11 +5,11 @@
 - [ ] Finish [[Mind Prison]]
 - [ ] Make a session for [[Zeneth]]
 - [ ] Session for [[Isla Nublar]]
-- [ ] Finish [[DJ Disaster]]
+- [x] Finish [[DJ Disaster]]
 ## Dimensions / Locations
 #todo/locations
-- [ ] Research The lore of [[Nirn]]
-- [ ] Research more of the Halo Lore: [[Dimension117]]
+- [x] Research The lore of [[Nirn]]
+- [x] Research more of the Halo Lore: [[Dimension117]]
 - [x] Finish [[Zeneth]] starting lore
 ## Characters
 #todo/chars

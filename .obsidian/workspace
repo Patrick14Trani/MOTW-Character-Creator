@@ -6,67 +6,13 @@
       {
         "id": "70c2abe091b1e6bf",
         "type": "leaf",
-        "dimension": 58.69905956112852,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sessions/Unfinished/A Sinking Feeling.md",
+            "file": "Sessions/Unfinished/Troublesome Troll.md",
             "mode": "source"
           }
-        },
-        "group": "a392e1cb6963ce38"
-      },
-      {
-        "id": "d4fcbf30b4a0d7ff",
-        "type": "split",
-        "dimension": 41.30094043887148,
-        "children": [
-          {
-            "id": "013cb29b9d706b64",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Sessions/Unfinished/A Sinking Feeling.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              }
-            },
-            "group": "a392e1cb6963ce38"
-          },
-          {
-            "id": "063dc762a4887fa4",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -106,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275
+    "width": 215
   },
   "right": {
     "id": "64f75b36da458a5e",
@@ -122,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Unfinished/A Sinking Feeling.md",
+                "file": "Sessions/Unfinished/Troublesome Troll.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,15 +105,15 @@
   },
   "active": "70c2abe091b1e6bf",
   "lastOpenFiles": [
+    "Sessions/Unfinished/Troublesome Troll.md",
+    "Sessions/Unfinished/Unlikely Goliath.md",
+    "Sessions/Unfinished/The Coldest Christmas.md",
+    "Sessions/Unfinished/Missing in Action.md",
+    "Sessions/Unfinished/Mind Prison.md",
     "Sessions/Unfinished/A Sinking Feeling.md",
-    "Monsters/themonster/The Boat.md",
-    "Monsters/themonster/Demowrath.md",
-    "Monsters/themonster/Berlinda.md",
-    "Dimensions/Dimension728B.md",
-    "Dimensions/Dimension729.md",
-    "Dimensions/Dimension728.md",
-    "Dimensions/Dimension321.md",
-    "Dimensions/Dimension117.md",
-    "Dimensions/Dimension48B.md"
+    "Sessions/Ready/Bump in the Night.md",
+    "Sessions/Ready/Date Night Vampire.md",
+    "Sessions/Ready/DJ Disaster.md",
+    "Dimensions/Dimension562.md"
   ]
 }

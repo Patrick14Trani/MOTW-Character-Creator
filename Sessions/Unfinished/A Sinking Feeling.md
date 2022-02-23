@@ -39,5 +39,10 @@ Once their selections reach them, they will place them each in the middle of one
 	- Fail: You feel something deep inside you being tugged at. 
 - spooks with spirit eyes will get bad eyes and eventually be able to see the spirits being pulled away
 
+#### The Search
+A large group of zombies will be searching through the ship to find anybody not at the banquet. Those they find will either be killed or taken captive depending on much trouble they make. A small group of zombies in this group will look like old US Soldiers. They will have interesting looking backpacks. After they are done and the ritual has begun, these soldiers will make their way to the bottom of the boat.
+  
+ 
+
 ## Locations
 [[Bermuda Triangle]]
